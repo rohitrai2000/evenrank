@@ -1,0 +1,4228 @@
+[
+    {
+        "name": "The Shawshank Redemption(1994) ",
+        "directors": [
+            "Frank Darabont"
+        ],
+        "stars": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ],
+        "writers": [
+            "Stephen King",
+            "Frank Darabont"
+        ],
+        "rating": "9.3",
+        "relase_date": "14 October 1994 (India)"
+    },
+    {
+        "name": "The Godfather(1972) ",
+        "directors": [
+            "Francis Ford Coppola"
+        ],
+        "stars": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan"
+        ],
+        "writers": [
+            "Mario Puzo",
+            "Francis Ford Coppola"
+        ],
+        "rating": "9.2",
+        "relase_date": "24 March 1972 (USA)"
+    },
+    {
+        "name": "The Godfather: Part II(1974) ",
+        "directors": [
+            "Francis Ford Coppola"
+        ],
+        "stars": [
+            "Al Pacino",
+            "Robert De Niro",
+            "Robert Duvall"
+        ],
+        "writers": [
+            "Francis Ford Coppola",
+            "Mario Puzo"
+        ],
+        "rating": "9.0",
+        "relase_date": "20 December 1974 (USA)"
+    },
+    {
+        "name": "The Dark Knight(2008) ",
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "stars": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart"
+        ],
+        "writers": [
+            "Jonathan Nolan",
+            "Christopher Nolan"
+        ],
+        "rating": "9.0",
+        "relase_date": "18 July 2008 (India)"
+    },
+    {
+        "name": "12 Angry Men(1957) ",
+        "directors": [
+            "Sidney Lumet"
+        ],
+        "stars": [
+            "Henry Fonda",
+            "Lee J. Cobb",
+            "Martin Balsam"
+        ],
+        "writers": [
+            "Reginald Rose",
+            "Reginald Rose"
+        ],
+        "rating": "8.9",
+        "relase_date": "10 April 1957 (USA)"
+    },
+    {
+        "name": "Schindler's List(1993) ",
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "stars": [
+            "Liam Neeson",
+            "Ralph Fiennes",
+            "Ben Kingsley"
+        ],
+        "writers": [
+            "Thomas Keneally",
+            "Steven Zaillian"
+        ],
+        "rating": "8.9",
+        "relase_date": "15 December 1993 (India)"
+    },
+    {
+        "name": "The Lord of the Rings: The Return of the King(2003) ",
+        "directors": [
+            "Peter Jackson"
+        ],
+        "stars": [
+            "Elijah Wood",
+            "Viggo Mortensen",
+            "Ian McKellen"
+        ],
+        "writers": [
+            "J.R.R. Tolkien",
+            "Fran Walsh"
+        ],
+        "rating": "8.9",
+        "relase_date": "6 February 2004 (India)"
+    },
+    {
+        "name": "Pulp Fiction(1994) ",
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "stars": [
+            "John Travolta",
+            "Uma Thurman",
+            "Samuel L. Jackson"
+        ],
+        "writers": [
+            "Quentin Tarantino",
+            "Roger Avary"
+        ],
+        "rating": "8.9",
+        "relase_date": "14 October 1994 (USA)"
+    },
+    {
+        "name": "Il buono, il brutto, il cattivo(1966) ",
+        "directors": [
+            "Sergio Leone"
+        ],
+        "stars": [
+            "Clint Eastwood",
+            "Eli Wallach",
+            "Lee Van Cleef"
+        ],
+        "writers": [
+            "Luciano Vincenzoni",
+            "Sergio Leone"
+        ],
+        "rating": "8.8",
+        "relase_date": "23 December 1966 (Italy)"
+    },
+    {
+        "name": "Fight Club(1999) ",
+        "directors": [
+            "David Fincher"
+        ],
+        "stars": [
+            "Brad Pitt",
+            "Edward Norton",
+            "Meat Loaf"
+        ],
+        "writers": [
+            "Chuck Palahniuk",
+            "Jim Uhls"
+        ],
+        "rating": "8.8",
+        "relase_date": "15 October 1999 (USA)"
+    },
+    {
+        "name": "The Lord of the Rings: The Fellowship of the Ring(2001) ",
+        "directors": [
+            "Peter Jackson"
+        ],
+        "stars": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Orlando Bloom"
+        ],
+        "writers": [
+            "J.R.R. Tolkien",
+            "Fran Walsh"
+        ],
+        "rating": "8.8",
+        "relase_date": "15 March 2002 (India)"
+    },
+    {
+        "name": "Forrest Gump(1994) ",
+        "directors": [
+            "Robert Zemeckis"
+        ],
+        "stars": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise"
+        ],
+        "writers": [
+            "Winston Groom",
+            "Eric Roth"
+        ],
+        "rating": "8.8",
+        "relase_date": "6 July 1994 (USA)"
+    },
+    {
+        "name": "Inception(2010) ",
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "stars": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Ellen Page"
+        ],
+        "writers": [
+            "Christopher Nolan"
+        ],
+        "rating": "8.8",
+        "relase_date": "16 July 2010 (India)"
+    },
+    {
+        "name": "Star Wars: Episode V - The Empire Strikes Back(1980) ",
+        "directors": [
+            "Irvin Kershner"
+        ],
+        "stars": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher"
+        ],
+        "writers": [
+            "Leigh Brackett",
+            "Lawrence Kasdan"
+        ],
+        "rating": "8.7",
+        "relase_date": "20 June 1980 (USA)"
+    },
+    {
+        "name": "The Lord of the Rings: The Two Towers(2002) ",
+        "directors": [
+            "Peter Jackson"
+        ],
+        "stars": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Viggo Mortensen"
+        ],
+        "writers": [
+            "J.R.R. Tolkien",
+            "Fran Walsh"
+        ],
+        "rating": "8.7",
+        "relase_date": "28 March 2003 (India)"
+    },
+    {
+        "name": "Joker(2019) ",
+        "directors": [
+            "Todd Phillips"
+        ],
+        "stars": [
+            "Joaquin Phoenix",
+            "Robert De Niro",
+            "Zazie Beetz"
+        ],
+        "writers": [
+            "Todd Phillips",
+            "Scott Silver"
+        ],
+        "rating": "8.8",
+        "relase_date": "2 October 2019 (India)"
+    },
+    {
+        "name": "The Matrix(1999) ",
+        "directors": [
+            "Lana Wachowski",
+            "Lilly Wachowski"
+        ],
+        "stars": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss"
+        ],
+        "writers": [
+            "Lilly Wachowski",
+            "Lana Wachowski"
+        ],
+        "rating": "8.7",
+        "relase_date": "31 March 1999 (USA)"
+    },
+    {
+        "name": "One Flew Over the Cuckoo's Nest(1975) ",
+        "directors": [
+            "Milos Forman"
+        ],
+        "stars": [
+            "Jack Nicholson",
+            "Louise Fletcher",
+            "Will Sampson"
+        ],
+        "writers": [
+            "Lawrence Hauben",
+            "Bo Goldman"
+        ],
+        "rating": "8.7",
+        "relase_date": "19 November 1975 (USA)"
+    },
+    {
+        "name": "Goodfellas(1990) ",
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "stars": [
+            "Robert De Niro",
+            "Ray Liotta",
+            "Joe Pesci"
+        ],
+        "writers": [
+            "Nicholas Pileggi",
+            "Nicholas Pileggi"
+        ],
+        "rating": "8.7",
+        "relase_date": "21 September 1990 (USA)"
+    },
+    {
+        "name": "Shichinin no samurai(1954) ",
+        "directors": [
+            "Akira Kurosawa"
+        ],
+        "stars": [
+            "Toshir Mifune",
+            "Takashi Shimura",
+            "Keiko Tsushima"
+        ],
+        "writers": [
+            "Akira Kurosawa",
+            "Shinobu Hashimoto"
+        ],
+        "rating": "8.6",
+        "relase_date": "26 April 1954 (Japan)"
+    },
+    {
+        "name": "Se7en(1995) ",
+        "directors": [
+            "David Fincher"
+        ],
+        "stars": [
+            "Morgan Freeman",
+            "Brad Pitt",
+            "Kevin Spacey"
+        ],
+        "writers": [
+            "Andrew Kevin Walker"
+        ],
+        "rating": "8.6",
+        "relase_date": "22 September 1995 (India)"
+    },
+    {
+        "name": "Cidade de Deus(2002) ",
+        "directors": [
+            "Fernando Meirelles",
+            "Ktia Lund"
+        ],
+        "stars": [
+            "Alexandre Rodrigues",
+            "Leandro Firmino",
+            "Matheus Nachtergaele"
+        ],
+        "writers": [
+            "Paulo Lins",
+            "Brulio Mantovani"
+        ],
+        "rating": "8.6",
+        "relase_date": "30 August 2002 (Brazil)"
+    },
+    {
+        "name": "La vita  bella(1997) ",
+        "directors": [
+            "Roberto Benigni"
+        ],
+        "stars": [
+            "Roberto Benigni",
+            "Nicoletta Braschi",
+            "Giorgio Cantarini"
+        ],
+        "writers": [
+            "Vincenzo Cerami",
+            "Roberto Benigni"
+        ],
+        "rating": "8.6",
+        "relase_date": "20 December 1997 (Italy)"
+    },
+    {
+        "name": "The Silence of the Lambs(1991) ",
+        "directors": [
+            "Jonathan Demme"
+        ],
+        "stars": [
+            "Jodie Foster",
+            "Anthony Hopkins",
+            "Lawrence A. Bonney"
+        ],
+        "writers": [
+            "Thomas Harris",
+            "Ted Tally"
+        ],
+        "rating": "8.6",
+        "relase_date": "14 February 1991 (USA)"
+    },
+    {
+        "name": "It's a Wonderful Life(1946) ",
+        "directors": [
+            "Frank Capra"
+        ],
+        "stars": [
+            "James Stewart",
+            "Donna Reed",
+            "Lionel Barrymore"
+        ],
+        "writers": [
+            "Frances Goodrich",
+            "Albert Hackett"
+        ],
+        "rating": "8.6",
+        "relase_date": "7 January 1947 (USA)"
+    },
+    {
+        "name": "Star Wars(1977) ",
+        "directors": [
+            "George Lucas"
+        ],
+        "stars": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher"
+        ],
+        "writers": [
+            "George Lucas"
+        ],
+        "rating": "8.6",
+        "relase_date": "1 July 1978 (India)"
+    },
+    {
+        "name": "Saving Private Ryan(1998) ",
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "stars": [
+            "Tom Hanks",
+            "Matt Damon",
+            "Tom Sizemore"
+        ],
+        "writers": [
+            "Robert Rodat"
+        ],
+        "rating": "8.6",
+        "relase_date": "24 July 1998 (USA)"
+    },
+    {
+        "name": "Sen to Chihiro no kamikakushi(2001) ",
+        "directors": [
+            "Hayao Miyazaki"
+        ],
+        "stars": [
+            "Daveigh Chase",
+            "Suzanne Pleshette",
+            "Miyu Irino"
+        ],
+        "writers": [
+            "Hayao Miyazaki"
+        ],
+        "rating": "8.6",
+        "relase_date": "20 July 2001 (Japan)"
+    },
+    {
+        "name": "The Green Mile(1999) ",
+        "directors": [
+            "Frank Darabont"
+        ],
+        "stars": [
+            "Tom Hanks",
+            "Michael Clarke Duncan",
+            "David Morse"
+        ],
+        "writers": [
+            "Stephen King",
+            "Frank Darabont"
+        ],
+        "rating": "8.6",
+        "relase_date": "10 December 1999 (USA)"
+    },
+    {
+        "name": "Lon(1994) ",
+        "directors": [
+            "Luc Besson"
+        ],
+        "stars": [
+            "Jean Reno",
+            "Gary Oldman",
+            "Natalie Portman"
+        ],
+        "writers": [
+            "Luc Besson"
+        ],
+        "rating": "8.5",
+        "relase_date": "14 September 1994 (France)"
+    },
+    {
+        "name": "Interstellar(2014) ",
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "stars": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain"
+        ],
+        "writers": [
+            "Jonathan Nolan",
+            "Christopher Nolan"
+        ],
+        "rating": "8.6",
+        "relase_date": "7 November 2014 (India)"
+    },
+    {
+        "name": "The Usual Suspects(1995) ",
+        "directors": [
+            "Bryan Singer"
+        ],
+        "stars": [
+            "Kevin Spacey",
+            "Gabriel Byrne",
+            "Chazz Palminteri"
+        ],
+        "writers": [
+            "Christopher McQuarrie"
+        ],
+        "rating": "8.5",
+        "relase_date": "15 September 1995 (USA)"
+    },
+    {
+        "name": "Seppuku(1962) ",
+        "directors": [
+            "Masaki Kobayashi"
+        ],
+        "stars": [
+            "Tatsuya Nakadai",
+            "Akira Ishihama",
+            "Shima Iwashita"
+        ],
+        "writers": [
+            "Yasuhiko Takiguchi",
+            "Shinobu Hashimoto"
+        ],
+        "rating": "8.7",
+        "relase_date": "16 September 1962 (Japan)"
+    },
+    {
+        "name": "The Lion King(1994) ",
+        "directors": [
+            "Roger Allers",
+            "Rob Minkoff"
+        ],
+        "stars": [
+            "Matthew Broderick",
+            "Jeremy Irons",
+            "James Earl Jones"
+        ],
+        "writers": [
+            "Irene Mecchi",
+            "Jonathan Roberts"
+        ],
+        "rating": "8.5",
+        "relase_date": "29 October 1994 (India)"
+    },
+    {
+        "name": "American History X(1998) ",
+        "directors": [
+            "Tony Kaye"
+        ],
+        "stars": [
+            "Edward Norton",
+            "Edward Furlong",
+            "Beverly D'Angelo"
+        ],
+        "writers": [
+            "David McKenna"
+        ],
+        "rating": "8.5",
+        "relase_date": "20 November 1998 (USA)"
+    },
+    {
+        "name": "Back to the Future(1985) ",
+        "directors": [
+            "Robert Zemeckis"
+        ],
+        "stars": [
+            "Michael J. Fox",
+            "Christopher Lloyd",
+            "Lea Thompson"
+        ],
+        "writers": [
+            "Robert Zemeckis",
+            "Bob Gale"
+        ],
+        "rating": "8.5",
+        "relase_date": "3 July 1985 (USA)"
+    },
+    {
+        "name": "The Pianist(2002) ",
+        "directors": [
+            "Roman Polanski"
+        ],
+        "stars": [
+            "Adrien Brody",
+            "Thomas Kretschmann",
+            "Frank Finlay"
+        ],
+        "writers": [
+            "Ronald Harwood",
+            "Wladyslaw Szpilman"
+        ],
+        "rating": "8.5",
+        "relase_date": "25 September 2002 (France)"
+    },
+    {
+        "name": "Terminator 2: Judgment Day(1991) ",
+        "directors": [
+            "James Cameron"
+        ],
+        "stars": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton",
+            "Edward Furlong"
+        ],
+        "writers": [
+            "James Cameron",
+            "William Wisher"
+        ],
+        "rating": "8.5",
+        "relase_date": "24 August 1991 (India)"
+    },
+    {
+        "name": "Modern Times(1936) ",
+        "directors": [
+            "Charles Chaplin"
+        ],
+        "stars": [
+            "Charles Chaplin",
+            "Paulette Goddard",
+            "Henry Bergman"
+        ],
+        "writers": [
+            "Charles Chaplin"
+        ],
+        "rating": "8.5",
+        "relase_date": "25 February 1936 (USA)"
+    },
+    {
+        "name": "Psycho(1960) ",
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "stars": [
+            "Anthony Perkins",
+            "Janet Leigh",
+            "Vera Miles"
+        ],
+        "writers": [
+            "Joseph Stefano",
+            "Robert Bloch"
+        ],
+        "rating": "8.5",
+        "relase_date": "8 September 1960 (USA)"
+    },
+    {
+        "name": "The Intouchables(2011) ",
+        "directors": [
+            "Olivier Nakache",
+            "ric Toledano"
+        ],
+        "stars": [
+            "Franois Cluzet",
+            "Omar Sy",
+            "Anne Le Ny"
+        ],
+        "writers": [
+            "Olivier Nakache",
+            "Philippe Pozzo di Borgo"
+        ],
+        "rating": "8.5",
+        "relase_date": "13 July 2012 (India)"
+    },
+    {
+        "name": "Gladiator(2000) ",
+        "directors": [
+            "Ridley Scott"
+        ],
+        "stars": [
+            "Russell Crowe",
+            "Joaquin Phoenix",
+            "Connie Nielsen"
+        ],
+        "writers": [
+            "David Franzoni",
+            "David Franzoni"
+        ],
+        "rating": "8.5",
+        "relase_date": "1 September 2000 (India)"
+    },
+    {
+        "name": "City Lights(1931) ",
+        "directors": [
+            "Charles Chaplin"
+        ],
+        "stars": [
+            "Charles Chaplin",
+            "Virginia Cherrill",
+            "Florence Lee"
+        ],
+        "writers": [
+            "Charles Chaplin"
+        ],
+        "rating": "8.5",
+        "relase_date": "7 March 1931 (USA)"
+    },
+    {
+        "name": "Gisaengchung(2019) ",
+        "directors": [
+            "Bong Joon Ho"
+        ],
+        "stars": [
+            "Kang-ho Song",
+            "Sun-kyun Lee",
+            "Yeo-jeong Jo"
+        ],
+        "writers": [
+            "Han Jin Won",
+            "Bong Joon Ho"
+        ],
+        "rating": "8.6",
+        "relase_date": "30 May 2019 (South Korea)"
+    },
+    {
+        "name": "The Departed(2006) ",
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "stars": [
+            "Leonardo DiCaprio",
+            "Matt Damon",
+            "Jack Nicholson"
+        ],
+        "writers": [
+            "William Monahan",
+            "Alan Mak"
+        ],
+        "rating": "8.5",
+        "relase_date": "31 October 2007 (India)"
+    },
+    {
+        "name": "Whiplash(2014) ",
+        "directors": [
+            "Damien Chazelle"
+        ],
+        "stars": [
+            "Miles Teller",
+            "J.K. Simmons",
+            "Melissa Benoist"
+        ],
+        "writers": [
+            "Damien Chazelle"
+        ],
+        "rating": "8.5",
+        "relase_date": "20 February 2015 (India)"
+    },
+    {
+        "name": "Once Upon a Time in the West(1968) ",
+        "directors": [
+            "Sergio Leone"
+        ],
+        "stars": [
+            "Henry Fonda",
+            "Charles Bronson",
+            "Claudia Cardinale"
+        ],
+        "writers": [
+            "Sergio Donati",
+            "Sergio Leone"
+        ],
+        "rating": "8.5",
+        "relase_date": "21 December 1968 (Italy)"
+    },
+    {
+        "name": "The Prestige(2006) ",
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "stars": [
+            "Christian Bale",
+            "Hugh Jackman",
+            "Scarlett Johansson"
+        ],
+        "writers": [
+            "Jonathan Nolan",
+            "Christopher Nolan"
+        ],
+        "rating": "8.5",
+        "relase_date": "20 October 2006 (USA)"
+    },
+    {
+        "name": "Casablanca(1942) ",
+        "directors": [
+            "Michael Curtiz"
+        ],
+        "stars": [
+            "Humphrey Bogart",
+            "Ingrid Bergman",
+            "Paul Henreid"
+        ],
+        "writers": [
+            "Julius J. Epstein",
+            "Philip G. Epstein"
+        ],
+        "rating": "8.5",
+        "relase_date": "23 January 1943 (USA)"
+    },
+    {
+        "name": "Hotaru no haka(1988) ",
+        "directors": [
+            "Isao Takahata"
+        ],
+        "stars": [
+            "Tsutomu Tatsumi",
+            "Ayano Shiraishi",
+            "Akemi Yamaguchi"
+        ],
+        "writers": [
+            "Akiyuki Nosaka",
+            "Isao Takahata"
+        ],
+        "rating": "8.5",
+        "relase_date": "16 April 1988 (Japan)"
+    },
+    {
+        "name": "Rear Window(1954) ",
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "stars": [
+            "James Stewart",
+            "Grace Kelly",
+            "Wendell Corey"
+        ],
+        "writers": [
+            "John Michael Hayes",
+            "Cornell Woolrich"
+        ],
+        "rating": "8.4",
+        "relase_date": "September 1954 (USA)"
+    },
+    {
+        "name": "Nuovo Cinema Paradiso(1988) ",
+        "directors": [
+            "Giuseppe Tornatore"
+        ],
+        "stars": [
+            "Philippe Noiret",
+            "Enzo Cannavale",
+            "Antonella Attili"
+        ],
+        "writers": [
+            "Giuseppe Tornatore",
+            "Giuseppe Tornatore"
+        ],
+        "rating": "8.5",
+        "relase_date": "17 November 1988 (Italy)"
+    },
+    {
+        "name": "Alien(1979) ",
+        "directors": [
+            "Ridley Scott"
+        ],
+        "stars": [
+            "Sigourney Weaver",
+            "Tom Skerritt",
+            "John Hurt"
+        ],
+        "writers": [
+            "Dan O'Bannon",
+            "Dan O'Bannon"
+        ],
+        "rating": "8.4",
+        "relase_date": "6 December 1979 (India)"
+    },
+    {
+        "name": "Avengers: Endgame(2019) ",
+        "directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "stars": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo"
+        ],
+        "writers": [
+            "Christopher Markus",
+            "Stephen McFeely"
+        ],
+        "rating": "8.5",
+        "relase_date": "26 April 2019 (India)"
+    },
+    {
+        "name": "Raiders of the Lost Ark(1981) ",
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "stars": [
+            "Harrison Ford",
+            "Karen Allen",
+            "Paul Freeman"
+        ],
+        "writers": [
+            "Lawrence Kasdan",
+            "George Lucas"
+        ],
+        "rating": "8.4",
+        "relase_date": "10 December 1981 (India)"
+    },
+    {
+        "name": "Memento(2000) ",
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "stars": [
+            "Guy Pearce",
+            "Carrie-Anne Moss",
+            "Joe Pantoliano"
+        ],
+        "writers": [
+            "Christopher Nolan",
+            "Jonathan Nolan"
+        ],
+        "rating": "8.4",
+        "relase_date": "25 May 2001 (USA)"
+    },
+    {
+        "name": "Apocalypse Now(1979) ",
+        "directors": [
+            "Francis Ford Coppola",
+            "Francis Ford Coppola"
+        ],
+        "stars": [
+            "Martin Sheen",
+            "Marlon Brando",
+            "Robert Duvall"
+        ],
+        "writers": [
+            "John Milius",
+            "Francis Ford Coppola"
+        ],
+        "rating": "8.4",
+        "relase_date": "15 August 1979 (USA)"
+    },
+    {
+        "name": "The Great Dictator(1940) ",
+        "directors": [
+            "Charles Chaplin"
+        ],
+        "stars": [
+            "Charles Chaplin",
+            "Paulette Goddard",
+            "Jack Oakie"
+        ],
+        "writers": [
+            "Charles Chaplin"
+        ],
+        "rating": "8.5",
+        "relase_date": "7 March 1941 (USA)"
+    },
+    {
+        "name": "The Lives of Others(2006) ",
+        "directors": [
+            "Florian Henckel von Donnersmarck"
+        ],
+        "stars": [
+            "Ulrich Mhe",
+            "Martina Gedeck",
+            "Sebastian Koch"
+        ],
+        "writers": [
+            "Florian Henckel von Donnersmarck"
+        ],
+        "rating": "8.4",
+        "relase_date": "23 March 2006 (Germany)"
+    },
+    {
+        "name": "Django Unchained(2012) ",
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "stars": [
+            "Jamie Foxx",
+            "Christoph Waltz",
+            "Leonardo DiCaprio"
+        ],
+        "writers": [
+            "Quentin Tarantino"
+        ],
+        "rating": "8.4",
+        "relase_date": "22 March 2013 (India)"
+    },
+    {
+        "name": "Avengers: Infinity War(2018) ",
+        "directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "stars": [
+            "Robert Downey Jr.",
+            "Chris Hemsworth",
+            "Mark Ruffalo"
+        ],
+        "writers": [
+            "Christopher Markus",
+            "Stephen McFeely"
+        ],
+        "rating": "8.5",
+        "relase_date": "27 April 2018 (India)"
+    },
+    {
+        "name": "The Shining(1980) ",
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "stars": [
+            "Jack Nicholson",
+            "Shelley Duvall",
+            "Danny Lloyd"
+        ],
+        "writers": [
+            "Stephen King",
+            "Stanley Kubrick"
+        ],
+        "rating": "8.4",
+        "relase_date": "13 June 1980 (USA)"
+    },
+    {
+        "name": "Paths of Glory(1957) ",
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "stars": [
+            "Kirk Douglas",
+            "Ralph Meeker",
+            "Adolphe Menjou"
+        ],
+        "writers": [
+            "Stanley Kubrick",
+            "Calder Willingham"
+        ],
+        "rating": "8.4",
+        "relase_date": "November 1957 (West Germany)"
+    },
+    {
+        "name": "Spider-Man: Into the Spider-Verse(2018) ",
+        "directors": [
+            "Bob Persichetti",
+            "Peter Ramsey",
+            "1 more credit"
+        ],
+        "stars": [
+            "Shameik Moore",
+            "Jake Johnson",
+            "Hailee Steinfeld"
+        ],
+        "writers": [
+            "Phil Lord",
+            "Rodney Rothman"
+        ],
+        "rating": "8.4",
+        "relase_date": "14 December 2018 (India)"
+    },
+    {
+        "name": "WALLE(2008) ",
+        "directors": [
+            "Andrew Stanton"
+        ],
+        "stars": [
+            "Ben Burtt",
+            "Elissa Knight",
+            "Jeff Garlin"
+        ],
+        "writers": [
+            "Andrew Stanton",
+            "Pete Docter"
+        ],
+        "rating": "8.4",
+        "relase_date": "29 August 2008 (India)"
+    },
+    {
+        "name": "Mononoke-hime(1997) ",
+        "directors": [
+            "Hayao Miyazaki"
+        ],
+        "stars": [
+            "Yji Matsuda",
+            "Yuriko Ishida",
+            "Yko Tanaka"
+        ],
+        "writers": [
+            "Hayao Miyazaki",
+            "Neil Gaiman"
+        ],
+        "rating": "8.4",
+        "relase_date": "12 July 1997 (Japan)"
+    },
+    {
+        "name": "Sunset Blvd.(1950) ",
+        "directors": [
+            "Billy Wilder"
+        ],
+        "stars": [
+            "William Holden",
+            "Gloria Swanson",
+            "Erich von Stroheim"
+        ],
+        "writers": [
+            "Charles Brackett",
+            "Billy Wilder"
+        ],
+        "rating": "8.4",
+        "relase_date": "29 September 1950 (Australia)"
+    },
+    {
+        "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb(1964) ",
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "stars": [
+            "Peter Sellers",
+            "George C. Scott",
+            "Sterling Hayden"
+        ],
+        "writers": [
+            "Stanley Kubrick",
+            "Terry Southern"
+        ],
+        "rating": "8.4",
+        "relase_date": "29 January 1964 (UK)"
+    },
+    {
+        "name": "Oldeuboi(2003) ",
+        "directors": [
+            "Chan-wook Park"
+        ],
+        "stars": [
+            "Min-sik Choi",
+            "Ji-Tae Yoo",
+            "Hye-jeong Kang"
+        ],
+        "writers": [
+            "Garon Tsuchiya",
+            "Nobuaki Minegishi"
+        ],
+        "rating": "8.4",
+        "relase_date": "21 November 2003 (South Korea)"
+    },
+    {
+        "name": "Witness for the Prosecution(1957) ",
+        "directors": [
+            "Billy Wilder"
+        ],
+        "stars": [
+            "Tyrone Power",
+            "Marlene Dietrich",
+            "Charles Laughton"
+        ],
+        "writers": [
+            "Agatha Christie",
+            "Billy Wilder"
+        ],
+        "rating": "8.4",
+        "relase_date": "6 February 1958 (USA)"
+    },
+    {
+        "name": "The Dark Knight Rises(2012) ",
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "stars": [
+            "Christian Bale",
+            "Tom Hardy",
+            "Anne Hathaway"
+        ],
+        "writers": [
+            "Jonathan Nolan",
+            "Christopher Nolan"
+        ],
+        "rating": "8.4",
+        "relase_date": "20 July 2012 (India)"
+    },
+    {
+        "name": "Once Upon a Time in America(1984) ",
+        "directors": [
+            "Sergio Leone"
+        ],
+        "stars": [
+            "Robert De Niro",
+            "James Woods",
+            "Elizabeth McGovern"
+        ],
+        "writers": [
+            "Harry Grey",
+            "Leonardo Benvenuti"
+        ],
+        "rating": "8.4",
+        "relase_date": "1 June 1984 (USA)"
+    },
+    {
+        "name": "Aliens(1986) ",
+        "directors": [
+            "James Cameron"
+        ],
+        "stars": [
+            "Sigourney Weaver",
+            "Michael Biehn",
+            "Carrie Henn"
+        ],
+        "writers": [
+            "James Cameron",
+            "David Giler"
+        ],
+        "rating": "8.4",
+        "relase_date": "11 July 1987 (India)"
+    },
+    {
+        "name": "American Beauty(1999) ",
+        "directors": [
+            "Sam Mendes"
+        ],
+        "stars": [
+            "Kevin Spacey",
+            "Annette Bening",
+            "Thora Birch"
+        ],
+        "writers": [
+            "Alan Ball"
+        ],
+        "rating": "8.3",
+        "relase_date": "1 October 1999 (USA)"
+    },
+    {
+        "name": "Kimi no na wa.(2016) ",
+        "directors": [
+            "Makoto Shinkai"
+        ],
+        "stars": [
+            "Rynosuke Kamiki",
+            "Mone Kamishiraishi",
+            "Ry Narita"
+        ],
+        "writers": [
+            "Makoto Shinkai",
+            "Makoto Shinkai"
+        ],
+        "rating": "8.4",
+        "relase_date": "26 August 2016 (Japan)"
+    },
+    {
+        "name": "Coco(2017) ",
+        "directors": [
+            "Lee Unkrich",
+            "Adrian Molina"
+        ],
+        "stars": [
+            "Anthony Gonzalez",
+            "Gael Garca Bernal",
+            "Benjamin Bratt"
+        ],
+        "writers": [
+            "Lee Unkrich",
+            "Jason Katz"
+        ],
+        "rating": "8.4",
+        "relase_date": "24 November 2017 (India)"
+    },
+    {
+        "name": "Braveheart(1995) ",
+        "directors": [
+            "Mel Gibson"
+        ],
+        "stars": [
+            "Mel Gibson",
+            "Sophie Marceau",
+            "Patrick McGoohan"
+        ],
+        "writers": [
+            "Randall Wallace"
+        ],
+        "rating": "8.3",
+        "relase_date": "24 May 1995 (USA)"
+    },
+    {
+        "name": "Das Boot(1981) ",
+        "directors": [
+            "Wolfgang Petersen"
+        ],
+        "stars": [
+            "Jrgen Prochnow",
+            "Herbert Grnemeyer",
+            "Klaus Wennemann"
+        ],
+        "writers": [
+            "Wolfgang Petersen",
+            "Lothar G. Buchheim"
+        ],
+        "rating": "8.3",
+        "relase_date": "17 September 1981 (West Germany)"
+    },
+    {
+        "name": "3 Idiots(2009) ",
+        "directors": [
+            "Rajkumar Hirani"
+        ],
+        "stars": [
+            "Aamir Khan",
+            "Madhavan",
+            "Mona Singh"
+        ],
+        "writers": [
+            "Rajkumar Hirani",
+            "Abhijat Joshi"
+        ],
+        "rating": "8.4",
+        "relase_date": "25 December 2009 (India)"
+    },
+    {
+        "name": "Star Wars: Episode VI - Return of the Jedi(1983) ",
+        "directors": [
+            "Richard Marquand"
+        ],
+        "stars": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher"
+        ],
+        "writers": [
+            "Lawrence Kasdan",
+            "George Lucas"
+        ],
+        "rating": "8.3",
+        "relase_date": "25 May 1983 (USA)"
+    },
+    {
+        "name": "Taare Zameen Par(2007) ",
+        "directors": [
+            "Aamir Khan",
+            "Amole Gupte"
+        ],
+        "stars": [
+            "Darsheel Safary",
+            "Aamir Khan",
+            "Tisca Chopra"
+        ],
+        "writers": [
+            "Amole Gupte",
+            "Amole Gupte"
+        ],
+        "rating": "8.4",
+        "relase_date": "21 December 2007 (India)"
+    },
+    {
+        "name": "Toy Story(1995) ",
+        "directors": [
+            "John Lasseter"
+        ],
+        "stars": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Don Rickles"
+        ],
+        "writers": [
+            "John Lasseter",
+            "Pete Docter"
+        ],
+        "rating": "8.3",
+        "relase_date": "22 November 1995 (USA)"
+    },
+    {
+        "name": "Reservoir Dogs(1992) ",
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "stars": [
+            "Harvey Keitel",
+            "Tim Roth",
+            "Michael Madsen"
+        ],
+        "writers": [
+            "Quentin Tarantino",
+            "Quentin Tarantino"
+        ],
+        "rating": "8.3",
+        "relase_date": "2 September 1992 (France)"
+    },
+    {
+        "name": "Amadeus(1984) ",
+        "directors": [
+            "Milos Forman"
+        ],
+        "stars": [
+            "F. Murray Abraham",
+            "Tom Hulce",
+            "Elizabeth Berridge"
+        ],
+        "writers": [
+            "Peter Shaffer",
+            "Peter Shaffer"
+        ],
+        "rating": "8.3",
+        "relase_date": "19 September 1984 (USA)"
+    },
+    {
+        "name": "Inglourious Basterds(2009) ",
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "stars": [
+            "Brad Pitt",
+            "Diane Kruger",
+            "Eli Roth"
+        ],
+        "writers": [
+            "Quentin Tarantino"
+        ],
+        "rating": "8.3",
+        "relase_date": "2 October 2009 (India)"
+    },
+    {
+        "name": "Good Will Hunting(1997) ",
+        "directors": [
+            "Gus Van Sant"
+        ],
+        "stars": [
+            "Robin Williams",
+            "Matt Damon",
+            "Ben Affleck"
+        ],
+        "writers": [
+            "Matt Damon",
+            "Ben Affleck"
+        ],
+        "rating": "8.3",
+        "relase_date": "9 January 1998 (USA)"
+    },
+    {
+        "name": "Dangal(2016) ",
+        "directors": [
+            "Nitesh Tiwari"
+        ],
+        "stars": [
+            "Aamir Khan",
+            "Sakshi Tanwar",
+            "Fatima Sana Shaikh"
+        ],
+        "writers": [
+            "Piyush Gupta",
+            "Shreyas Jain"
+        ],
+        "rating": "8.4",
+        "relase_date": "23 December 2016 (India)"
+    },
+    {
+        "name": "M - Eine Stadt sucht einen Mrder(1931) ",
+        "directors": [
+            "Fritz Lang"
+        ],
+        "stars": [
+            "Peter Lorre",
+            "Ellen Widmann",
+            "Inge Landgut"
+        ],
+        "writers": [
+            "Thea von Harbou",
+            "Fritz Lang"
+        ],
+        "rating": "8.3",
+        "relase_date": "31 August 1931 (Sweden)"
+    },
+    {
+        "name": "Requiem for a Dream(2000) ",
+        "directors": [
+            "Darren Aronofsky"
+        ],
+        "stars": [
+            "Ellen Burstyn",
+            "Jared Leto",
+            "Jennifer Connelly"
+        ],
+        "writers": [
+            "Hubert Selby Jr.",
+            "Hubert Selby Jr."
+        ],
+        "rating": "8.3",
+        "relase_date": "15 December 2000 (USA)"
+    },
+    {
+        "name": "2001: A Space Odyssey(1968) ",
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "stars": [
+            "Keir Dullea",
+            "Gary Lockwood",
+            "William Sylvester"
+        ],
+        "writers": [
+            "Stanley Kubrick",
+            "Arthur C. Clarke"
+        ],
+        "rating": "8.3",
+        "relase_date": "12 May 1968 (UK)"
+    },
+    {
+        "name": "Vertigo(1958) ",
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "stars": [
+            "James Stewart",
+            "Kim Novak",
+            "Barbara Bel Geddes"
+        ],
+        "writers": [
+            "Alec Coppel",
+            "Samuel A. Taylor"
+        ],
+        "rating": "8.3",
+        "relase_date": "22 May 1958 (UK)"
+    },
+    {
+        "name": "Eternal Sunshine of the Spotless Mind(2004) ",
+        "directors": [
+            "Michel Gondry"
+        ],
+        "stars": [
+            "Jim Carrey",
+            "Kate Winslet",
+            "Tom Wilkinson"
+        ],
+        "writers": [
+            "Charlie Kaufman",
+            "Michel Gondry"
+        ],
+        "rating": "8.3",
+        "relase_date": "19 March 2004 (USA)"
+    },
+    {
+        "name": "Citizen Kane(1941) ",
+        "directors": [
+            "Orson Welles"
+        ],
+        "stars": [
+            "Orson Welles",
+            "Joseph Cotten",
+            "Dorothy Comingore"
+        ],
+        "writers": [
+            "Herman J. Mankiewicz",
+            "Orson Welles"
+        ],
+        "rating": "8.3",
+        "relase_date": "5 September 1941 (USA)"
+    },
+    {
+        "name": "Jagten(2012) ",
+        "directors": [
+            "Thomas Vinterberg"
+        ],
+        "stars": [
+            "Mads Mikkelsen",
+            "Thomas Bo Larsen",
+            "Annika Wedderkopp"
+        ],
+        "writers": [
+            "Tobias Lindholm",
+            "Thomas Vinterberg"
+        ],
+        "rating": "8.3",
+        "relase_date": "10 January 2013 (Denmark)"
+    },
+    {
+        "name": "Full Metal Jacket(1987) ",
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "stars": [
+            "Matthew Modine",
+            "R. Lee Ermey",
+            "Vincent D'Onofrio"
+        ],
+        "writers": [
+            "Stanley Kubrick",
+            "Michael Herr"
+        ],
+        "rating": "8.3",
+        "relase_date": "10 July 1987 (USA)"
+    },
+    {
+        "name": "North by Northwest(1959) ",
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "stars": [
+            "Cary Grant",
+            "Eva Marie Saint",
+            "James Mason"
+        ],
+        "writers": [
+            "Ernest Lehman"
+        ],
+        "rating": "8.3",
+        "relase_date": "26 September 1959 (Japan)"
+    },
+    {
+        "name": "A Clockwork Orange(1971) ",
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "stars": [
+            "Malcolm McDowell",
+            "Patrick Magee",
+            "Michael Bates"
+        ],
+        "writers": [
+            "Stanley Kubrick",
+            "Anthony Burgess"
+        ],
+        "rating": "8.3",
+        "relase_date": "13 January 1972 (UK)"
+    },
+    {
+        "name": "Snatch(2000) ",
+        "directors": [
+            "Guy Ritchie"
+        ],
+        "stars": [
+            "Jason Statham",
+            "Brad Pitt",
+            "Benicio Del Toro"
+        ],
+        "writers": [
+            "Guy Ritchie"
+        ],
+        "rating": "8.3",
+        "relase_date": "1 September 2000 (UK)"
+    },
+    {
+        "name": "The Kid(1921) ",
+        "directors": [
+            "Charles Chaplin"
+        ],
+        "stars": [
+            "Charles Chaplin",
+            "Edna Purviance",
+            "Jackie Coogan"
+        ],
+        "writers": [
+            "Charles Chaplin"
+        ],
+        "rating": "8.3",
+        "relase_date": "6 February 1921 (USA)"
+    },
+    {
+        "name": "Amlie(2001) ",
+        "directors": [
+            "Jean-Pierre Jeunet"
+        ],
+        "stars": [
+            "Audrey Tautou",
+            "Mathieu Kassovitz",
+            "Rufus"
+        ],
+        "writers": [
+            "Guillaume Laurant",
+            "Jean-Pierre Jeunet"
+        ],
+        "rating": "8.3",
+        "relase_date": "25 April 2001 (France)"
+    },
+    {
+        "name": "Ladri di biciclette(1948) ",
+        "directors": [
+            "Vittorio De Sica"
+        ],
+        "stars": [
+            "Lamberto Maggiorani",
+            "Enzo Staiola",
+            "Lianella Carell"
+        ],
+        "writers": [
+            "Cesare Zavattini",
+            "Luigi Bartolini"
+        ],
+        "rating": "8.3",
+        "relase_date": "24 November 1948 (Italy)"
+    },
+    {
+        "name": "Scarface(1983) ",
+        "directors": [
+            "Brian De Palma"
+        ],
+        "stars": [
+            "Al Pacino",
+            "Michelle Pfeiffer",
+            "Steven Bauer"
+        ],
+        "writers": [
+            "Oliver Stone"
+        ],
+        "rating": "8.3",
+        "relase_date": "9 December 1983 (USA)"
+    },
+    {
+        "name": "Singin' in the Rain(1952) ",
+        "directors": [
+            "Stanley Donen",
+            "Gene Kelly"
+        ],
+        "stars": [
+            "Gene Kelly",
+            "Donald O'Connor",
+            "Debbie Reynolds"
+        ],
+        "writers": [
+            "Betty Comden",
+            "Adolph Green"
+        ],
+        "rating": "8.3",
+        "relase_date": "11 April 1952 (USA)"
+    },
+    {
+        "name": "Taxi Driver(1976) ",
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "stars": [
+            "Robert De Niro",
+            "Jodie Foster",
+            "Cybill Shepherd"
+        ],
+        "writers": [
+            "Paul Schrader"
+        ],
+        "rating": "8.3",
+        "relase_date": "9 February 1976 (USA)"
+    },
+    {
+        "name": "Lawrence of Arabia(1962) ",
+        "directors": [
+            "David Lean"
+        ],
+        "stars": [
+            "Peter O'Toole",
+            "Alec Guinness",
+            "Anthony Quinn"
+        ],
+        "writers": [
+            "T.E. Lawrence",
+            "Robert Bolt"
+        ],
+        "rating": "8.3",
+        "relase_date": "11 December 1962 (UK)"
+    },
+    {
+        "name": "Toy Story 3(2010) ",
+        "directors": [
+            "Lee Unkrich"
+        ],
+        "stars": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Joan Cusack"
+        ],
+        "writers": [
+            "John Lasseter",
+            "Andrew Stanton"
+        ],
+        "rating": "8.3",
+        "relase_date": "25 June 2010 (India)"
+    },
+    {
+        "name": "The Sting(1973) ",
+        "directors": [
+            "George Roy Hill"
+        ],
+        "stars": [
+            "Paul Newman",
+            "Robert Redford",
+            "Robert Shaw"
+        ],
+        "writers": [
+            "David S. Ward"
+        ],
+        "rating": "8.3",
+        "relase_date": "25 December 1973 (USA)"
+    },
+    {
+        "name": "Metropolis(1927) ",
+        "directors": [
+            "Fritz Lang"
+        ],
+        "stars": [
+            "Brigitte Helm",
+            "Alfred Abel",
+            "Gustav Frhlich"
+        ],
+        "writers": [
+            "Thea von Harbou",
+            "Thea von Harbou"
+        ],
+        "rating": "8.3",
+        "relase_date": "6 February 1927 (France)"
+    },
+    {
+        "name": "Per qualche dollaro in pi(1965) ",
+        "directors": [
+            "Sergio Leone"
+        ],
+        "stars": [
+            "Clint Eastwood",
+            "Lee Van Cleef",
+            "Gian Maria Volont"
+        ],
+        "writers": [
+            "Sergio Leone",
+            "Fulvio Morsella"
+        ],
+        "rating": "8.3",
+        "relase_date": "20 December 1965 (Greece)"
+    },
+    {
+        "name": "Ikiru(1952) ",
+        "directors": [
+            "Akira Kurosawa"
+        ],
+        "stars": [
+            "Takashi Shimura",
+            "Nobuo Kaneko",
+            "Shin'ichi Himori"
+        ],
+        "writers": [
+            "Akira Kurosawa",
+            "Shinobu Hashimoto"
+        ],
+        "rating": "8.3",
+        "relase_date": "9 October 1952 (Japan)"
+    },
+    {
+        "name": "Jodaeiye Nader az Simin(2011) ",
+        "directors": [
+            "Asghar Farhadi"
+        ],
+        "stars": [
+            "Payman Maadi",
+            "Leila Hatami",
+            "Sareh Bayat"
+        ],
+        "writers": [
+            "Asghar Farhadi"
+        ],
+        "rating": "8.3",
+        "relase_date": "29 October 2012 (India)"
+    },
+    {
+        "name": "Double Indemnity(1944) ",
+        "directors": [
+            "Billy Wilder"
+        ],
+        "stars": [
+            "Fred MacMurray",
+            "Barbara Stanwyck",
+            "Edward G. Robinson"
+        ],
+        "writers": [
+            "Billy Wilder",
+            "Raymond Chandler"
+        ],
+        "rating": "8.3",
+        "relase_date": "6 July 1944 (USA)"
+    },
+    {
+        "name": "To Kill a Mockingbird(1962) ",
+        "directors": [
+            "Robert Mulligan"
+        ],
+        "stars": [
+            "Gregory Peck",
+            "John Megna",
+            "Frank Overton"
+        ],
+        "writers": [
+            "Harper Lee",
+            "Horton Foote"
+        ],
+        "rating": "8.3",
+        "relase_date": "16 March 1963 (USA)"
+    },
+    {
+        "name": "Capharnam(2018) ",
+        "directors": [
+            "Nadine Labaki"
+        ],
+        "stars": [
+            "Zain Al Rafeea",
+            "Yordanos Shiferaw",
+            "Boluwatife Treasure Bankole"
+        ],
+        "writers": [
+            "Nadine Labaki",
+            "Jihad Hojeily"
+        ],
+        "rating": "8.4",
+        "relase_date": "21 June 2019 (India)"
+    },
+    {
+        "name": "Indiana Jones and the Last Crusade(1989) ",
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "stars": [
+            "Harrison Ford",
+            "Sean Connery",
+            "Alison Doody"
+        ],
+        "writers": [
+            "Jeffrey Boam",
+            "George Lucas"
+        ],
+        "rating": "8.2",
+        "relase_date": "24 May 1989 (USA)"
+    },
+    {
+        "name": "The Apartment(1960) ",
+        "directors": [
+            "Billy Wilder"
+        ],
+        "stars": [
+            "Jack Lemmon",
+            "Shirley MacLaine",
+            "Fred MacMurray"
+        ],
+        "writers": [
+            "Billy Wilder",
+            "I.A.L. Diamond"
+        ],
+        "rating": "8.3",
+        "relase_date": "16 September 1960 (France)"
+    },
+    {
+        "name": "Up(2009) ",
+        "directors": [
+            "Pete Docter",
+            "Bob Peterson"
+        ],
+        "stars": [
+            "Edward Asner",
+            "Jordan Nagai",
+            "John Ratzenberger"
+        ],
+        "writers": [
+            "Pete Docter",
+            "Bob Peterson"
+        ],
+        "rating": "8.2",
+        "relase_date": "11 September 2009 (India)"
+    },
+    {
+        "name": "L.A. Confidential(1997) ",
+        "directors": [
+            "Curtis Hanson"
+        ],
+        "stars": [
+            "Kevin Spacey",
+            "Russell Crowe",
+            "Guy Pearce"
+        ],
+        "writers": [
+            "James Ellroy",
+            "Brian Helgeland"
+        ],
+        "rating": "8.2",
+        "relase_date": "19 September 1997 (USA)"
+    },
+    {
+        "name": "Incendies(2010) ",
+        "directors": [
+            "Denis Villeneuve"
+        ],
+        "stars": [
+            "Lubna Azabal",
+            "Mlissa Dsormeaux-Poulin",
+            "Maxim Gaudette"
+        ],
+        "writers": [
+            "Denis Villeneuve",
+            "Wajdi Mouawad"
+        ],
+        "rating": "8.3",
+        "relase_date": "12 January 2011 (France)"
+    },
+    {
+        "name": "Monty Python and the Holy Grail(1975) ",
+        "directors": [
+            "Terry Gilliam",
+            "Terry Jones"
+        ],
+        "stars": [
+            "Graham Chapman",
+            "John Cleese",
+            "Eric Idle"
+        ],
+        "writers": [
+            "Graham Chapman",
+            "John Cleese"
+        ],
+        "rating": "8.2",
+        "relase_date": "6 December 1979 (India)"
+    },
+    {
+        "name": "Heat(1995) ",
+        "directors": [
+            "Michael Mann"
+        ],
+        "stars": [
+            "Al Pacino",
+            "Robert De Niro",
+            "Val Kilmer"
+        ],
+        "writers": [
+            "Michael Mann"
+        ],
+        "rating": "8.2",
+        "relase_date": "15 December 1995 (USA)"
+    },
+    {
+        "name": "Rashmon(1950) ",
+        "directors": [
+            "Akira Kurosawa"
+        ],
+        "stars": [
+            "Toshir Mifune",
+            "Machiko Ky",
+            "Masayuki Mori"
+        ],
+        "writers": [
+            "Rynosuke Akutagawa",
+            "Akira Kurosawa"
+        ],
+        "rating": "8.2",
+        "relase_date": "26 August 1950 (Japan)"
+    },
+    {
+        "name": "Yjinb(1961) ",
+        "directors": [
+            "Akira Kurosawa"
+        ],
+        "stars": [
+            "Toshir Mifune",
+            "Eijir Tno",
+            "Tatsuya Nakadai"
+        ],
+        "writers": [
+            "Akira Kurosawa",
+            "Akira Kurosawa"
+        ],
+        "rating": "8.2",
+        "relase_date": "25 April 1961 (Japan)"
+    },
+    {
+        "name": "Die Hard(1988) ",
+        "directors": [
+            "John McTiernan"
+        ],
+        "stars": [
+            "Bruce Willis",
+            "Alan Rickman",
+            "Bonnie Bedelia"
+        ],
+        "writers": [
+            "Roderick Thorp",
+            "Jeb Stuart"
+        ],
+        "rating": "8.2",
+        "relase_date": "20 July 1988 (USA)"
+    },
+    {
+        "name": "Batman Begins(2005) ",
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "stars": [
+            "Christian Bale",
+            "Michael Caine",
+            "Ken Watanabe"
+        ],
+        "writers": [
+            "Bob Kane",
+            "David S. Goyer"
+        ],
+        "rating": "8.2",
+        "relase_date": "17 June 2005 (India)"
+    },
+    {
+        "name": "Unforgiven(1992) ",
+        "directors": [
+            "Clint Eastwood"
+        ],
+        "stars": [
+            "Clint Eastwood",
+            "Gene Hackman",
+            "Morgan Freeman"
+        ],
+        "writers": [
+            "David Webb Peoples"
+        ],
+        "rating": "8.2",
+        "relase_date": "7 August 1992 (USA)"
+    },
+    {
+        "name": "Green Book(2018) ",
+        "directors": [
+            "Peter Farrelly"
+        ],
+        "stars": [
+            "Viggo Mortensen",
+            "Mahershala Ali",
+            "Linda Cardellini"
+        ],
+        "writers": [
+            "Nick Vallelonga",
+            "Brian Hayes Currie"
+        ],
+        "rating": "8.2",
+        "relase_date": "16 November 2018 (USA)"
+    },
+    {
+        "name": "Der Untergang(2004) ",
+        "directors": [
+            "Oliver Hirschbiegel"
+        ],
+        "stars": [
+            "Bruno Ganz",
+            "Alexandra Maria Lara",
+            "Ulrich Matthes"
+        ],
+        "writers": [
+            "Bernd Eichinger",
+            "Joachim Fest"
+        ],
+        "rating": "8.2",
+        "relase_date": "16 September 2004 (Germany)"
+    },
+    {
+        "name": "Bacheha-Ye aseman(1997) ",
+        "directors": [
+            "Majid Majidi"
+        ],
+        "stars": [
+            "Mohammad Amir Naji",
+            "Amir Farrokh Hashemian",
+            "Bahare Seddiqi"
+        ],
+        "writers": [
+            "Majid Majidi"
+        ],
+        "rating": "8.3",
+        "relase_date": "1997 (Iran)"
+    },
+    {
+        "name": "Some Like It Hot(1959) ",
+        "directors": [
+            "Billy Wilder"
+        ],
+        "stars": [
+            "Marilyn Monroe",
+            "Tony Curtis",
+            "Jack Lemmon"
+        ],
+        "writers": [
+            "Billy Wilder",
+            "I.A.L. Diamond"
+        ],
+        "rating": "8.2",
+        "relase_date": "19 March 1959 (USA)"
+    },
+    {
+        "name": "Hauru no ugoku shiro(2004) ",
+        "directors": [
+            "Hayao Miyazaki"
+        ],
+        "stars": [
+            "Chieko Baish",
+            "Takuya Kimura",
+            "Tatsuya Gashin"
+        ],
+        "writers": [
+            "Hayao Miyazaki",
+            "Diana Wynne Jones"
+        ],
+        "rating": "8.2",
+        "relase_date": "20 November 2004 (Japan)"
+    },
+    {
+        "name": "The Great Escape(1963) ",
+        "directors": [
+            "John Sturges"
+        ],
+        "stars": [
+            "Steve McQueen",
+            "James Garner",
+            "Richard Attenborough"
+        ],
+        "writers": [
+            "Paul Brickhill",
+            "James Clavell"
+        ],
+        "rating": "8.2",
+        "relase_date": "4 July 1963 (USA)"
+    },
+    {
+        "name": "Tonari no Totoro(1988) ",
+        "directors": [
+            "Hayao Miyazaki"
+        ],
+        "stars": [
+            "Hitoshi Takagi",
+            "Noriko Hidaka",
+            "Chika Sakamoto"
+        ],
+        "writers": [
+            "Hayao Miyazaki"
+        ],
+        "rating": "8.2",
+        "relase_date": "16 April 1988 (Japan)"
+    },
+    {
+        "name": "Ran(1985) ",
+        "directors": [
+            "Akira Kurosawa"
+        ],
+        "stars": [
+            "Tatsuya Nakadai",
+            "Akira Terao",
+            "Jinpachi Nezu"
+        ],
+        "writers": [
+            "Akira Kurosawa",
+            "Hideo Oguni"
+        ],
+        "rating": "8.2",
+        "relase_date": "1 June 1985 (Japan)"
+    },
+    {
+        "name": "A Beautiful Mind(2001) ",
+        "directors": [
+            "Ron Howard"
+        ],
+        "stars": [
+            "Russell Crowe",
+            "Ed Harris",
+            "Jennifer Connelly"
+        ],
+        "writers": [
+            "Akiva Goldsman",
+            "Sylvia Nasar"
+        ],
+        "rating": "8.2",
+        "relase_date": "4 January 2002 (USA)"
+    },
+    {
+        "name": "All About Eve(1950) ",
+        "directors": [
+            "Joseph L. Mankiewicz"
+        ],
+        "stars": [
+            "Bette Davis",
+            "Anne Baxter",
+            "George Sanders"
+        ],
+        "writers": [
+            "Joseph L. Mankiewicz"
+        ],
+        "rating": "8.2",
+        "relase_date": "27 October 1950 (USA)"
+    },
+    {
+        "name": "Pan's Labyrinth(2006) ",
+        "directors": [
+            "Guillermo del Toro"
+        ],
+        "stars": [
+            "Ivana Baquero",
+            "Ariadna Gil",
+            "Sergi Lpez"
+        ],
+        "writers": [
+            "Guillermo del Toro"
+        ],
+        "rating": "8.2",
+        "relase_date": "11 October 2006 (Spain)"
+    },
+    {
+        "name": "Casino(1995) ",
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "stars": [
+            "Robert De Niro",
+            "Sharon Stone",
+            "Joe Pesci"
+        ],
+        "writers": [
+            "Nicholas Pileggi",
+            "Nicholas Pileggi"
+        ],
+        "rating": "8.2",
+        "relase_date": "22 November 1995 (USA)"
+    },
+    {
+        "name": "Idi i smotri(1985) ",
+        "directors": [
+            "Elem Klimov"
+        ],
+        "stars": [
+            "Aleksey Kravchenko",
+            "Olga Mironova",
+            "Liubomiras Laucevicius"
+        ],
+        "writers": [
+            "Ales Adamovich",
+            "Ales Adamovich"
+        ],
+        "rating": "8.3",
+        "relase_date": "17 October 1985 (Hungary)"
+    },
+    {
+        "name": "El secreto de sus ojos(2009) ",
+        "directors": [
+            "Juan Jos Campanella"
+        ],
+        "stars": [
+            "Ricardo Darn",
+            "Soledad Villamil",
+            "Pablo Rago"
+        ],
+        "writers": [
+            "Eduardo Sacheri",
+            "Juan Jos Campanella"
+        ],
+        "rating": "8.2",
+        "relase_date": "13 August 2009 (Argentina)"
+    },
+    {
+        "name": "Raging Bull(1980) ",
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "stars": [
+            "Robert De Niro",
+            "Cathy Moriarty",
+            "Joe Pesci"
+        ],
+        "writers": [
+            "Jake LaMotta",
+            "Joseph Carter"
+        ],
+        "rating": "8.2",
+        "relase_date": "19 December 1980 (USA)"
+    },
+    {
+        "name": "Lock, Stock and Two Smoking Barrels(1998) ",
+        "directors": [
+            "Guy Ritchie"
+        ],
+        "stars": [
+            "Jason Flemyng",
+            "Dexter Fletcher",
+            "Nick Moran"
+        ],
+        "writers": [
+            "Guy Ritchie"
+        ],
+        "rating": "8.2",
+        "relase_date": "28 August 1998 (UK)"
+    },
+    {
+        "name": "The Wolf of Wall Street(2013) ",
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "stars": [
+            "Leonardo DiCaprio",
+            "Jonah Hill",
+            "Margot Robbie"
+        ],
+        "writers": [
+            "Terence Winter",
+            "Jordan Belfort"
+        ],
+        "rating": "8.2",
+        "relase_date": "3 January 2014 (India)"
+    },
+    {
+        "name": "The Treasure of the Sierra Madre(1948) ",
+        "directors": [
+            "John Huston"
+        ],
+        "stars": [
+            "Humphrey Bogart",
+            "Walter Huston",
+            "Tim Holt"
+        ],
+        "writers": [
+            "John Huston",
+            "B. Traven"
+        ],
+        "rating": "8.2",
+        "relase_date": "24 January 1948 (USA)"
+    },
+    {
+        "name": "Judgment at Nuremberg(1961) ",
+        "directors": [
+            "Stanley Kramer"
+        ],
+        "stars": [
+            "Spencer Tracy",
+            "Burt Lancaster",
+            "Richard Widmark"
+        ],
+        "writers": [
+            "Abby Mann",
+            "Abby Mann"
+        ],
+        "rating": "8.2",
+        "relase_date": "18 December 1961 (Sweden)"
+    },
+    {
+        "name": "Babam ve Oglum(2005) ",
+        "directors": [
+            "agan Irmak"
+        ],
+        "stars": [
+            "etin Tekindor",
+            "Fikret Kuskan",
+            "Hmeyra"
+        ],
+        "writers": [
+            "agan Irmak"
+        ],
+        "rating": "8.3",
+        "relase_date": "18 November 2005 (Turkey)"
+    },
+    {
+        "name": "Three Billboards Outside Ebbing, Missouri(2017) ",
+        "directors": [
+            "Martin McDonagh"
+        ],
+        "stars": [
+            "Frances McDormand",
+            "Woody Harrelson",
+            "Sam Rockwell"
+        ],
+        "writers": [
+            "Martin McDonagh"
+        ],
+        "rating": "8.2",
+        "relase_date": "23 February 2018 (India)"
+    },
+    {
+        "name": "Chinatown(1974) ",
+        "directors": [
+            "Roman Polanski"
+        ],
+        "stars": [
+            "Jack Nicholson",
+            "Faye Dunaway",
+            "John Huston"
+        ],
+        "writers": [
+            "Robert Towne"
+        ],
+        "rating": "8.2",
+        "relase_date": "20 June 1974 (USA)"
+    },
+    {
+        "name": "The Gold Rush(1925) ",
+        "directors": [
+            "Charles Chaplin"
+        ],
+        "stars": [
+            "Charles Chaplin",
+            "Mack Swain",
+            "Tom Murray"
+        ],
+        "writers": [
+            "Charles Chaplin"
+        ],
+        "rating": "8.2",
+        "relase_date": "13 July 1925 (Brazil)"
+    },
+    {
+        "name": "Dial M for Murder(1954) ",
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "stars": [
+            "Ray Milland",
+            "Grace Kelly",
+            "Robert Cummings"
+        ],
+        "writers": [
+            "Frederick Knott",
+            "Frederick Knott"
+        ],
+        "rating": "8.2",
+        "relase_date": "29 May 1954 (USA)"
+    },
+    {
+        "name": "Drishyam(2013) ",
+        "directors": [
+            "Jeethu Joseph"
+        ],
+        "stars": [
+            "Asokan",
+            "Mohanlal",
+            "Kalabhavan Rahman"
+        ],
+        "writers": [
+            "Saeid Shahi",
+            "Jeethu Joseph"
+        ],
+        "rating": "8.6",
+        "relase_date": "19 December 2013 (India)"
+    },
+    {
+        "name": "There Will Be Blood(2007) ",
+        "directors": [
+            "Paul Thomas Anderson"
+        ],
+        "stars": [
+            "Daniel Day-Lewis",
+            "Paul Dano",
+            "Ciarn Hinds"
+        ],
+        "writers": [
+            "Paul Thomas Anderson",
+            "Upton Sinclair"
+        ],
+        "rating": "8.1",
+        "relase_date": "25 January 2008 (USA)"
+    },
+    {
+        "name": "V for Vendetta(2005) ",
+        "directors": [
+            "James McTeigue"
+        ],
+        "stars": [
+            "Hugo Weaving",
+            "Natalie Portman",
+            "Rupert Graves"
+        ],
+        "writers": [
+            "Lilly Wachowski",
+            "Lana Wachowski"
+        ],
+        "rating": "8.2",
+        "relase_date": "16 March 2006 (Germany)"
+    },
+    {
+        "name": "Inside Out(2015) ",
+        "directors": [
+            "Pete Docter",
+            "Ronnie Del Carmen"
+        ],
+        "stars": [
+            "Amy Poehler",
+            "Bill Hader",
+            "Lewis Black"
+        ],
+        "writers": [
+            "Pete Docter",
+            "Ronnie Del Carmen"
+        ],
+        "rating": "8.2",
+        "relase_date": "26 June 2015 (India)"
+    },
+    {
+        "name": "Det sjunde inseglet(1957) ",
+        "directors": [
+            "Ingmar Bergman"
+        ],
+        "stars": [
+            "Max von Sydow",
+            "Gunnar Bjrnstrand",
+            "Bengt Ekerot"
+        ],
+        "writers": [
+            "Ingmar Bergman",
+            "Ingmar Bergman"
+        ],
+        "rating": "8.2",
+        "relase_date": "16 February 1957 (Sweden)"
+    },
+    {
+        "name": "Warrior(2011) ",
+        "directors": [
+            "Gavin O'Connor"
+        ],
+        "stars": [
+            "Tom Hardy",
+            "Nick Nolte",
+            "Joel Edgerton"
+        ],
+        "writers": [
+            "Gavin O'Connor",
+            "Anthony Tambakis"
+        ],
+        "rating": "8.2",
+        "relase_date": "9 September 2011 (USA)"
+    },
+    {
+        "name": "No Country for Old Men(2007) ",
+        "directors": [
+            "Ethan Coen",
+            "Joel Coen"
+        ],
+        "stars": [
+            "Tommy Lee Jones",
+            "Javier Bardem",
+            "Josh Brolin"
+        ],
+        "writers": [
+            "Joel Coen",
+            "Ethan Coen"
+        ],
+        "rating": "8.1",
+        "relase_date": "21 November 2007 (USA)"
+    },
+    {
+        "name": "Room(2015) ",
+        "directors": [
+            "Lenny Abrahamson"
+        ],
+        "stars": [
+            "Brie Larson",
+            "Jacob Tremblay",
+            "Sean Bridgers"
+        ],
+        "writers": [
+            "Emma Donoghue",
+            "Emma Donoghue"
+        ],
+        "rating": "8.1",
+        "relase_date": "15 January 2016 (Ireland)"
+    },
+    {
+        "name": "Trainspotting(1996) ",
+        "directors": [
+            "Danny Boyle"
+        ],
+        "stars": [
+            "Ewan McGregor",
+            "Ewen Bremner",
+            "Jonny Lee Miller"
+        ],
+        "writers": [
+            "Irvine Welsh",
+            "John Hodge"
+        ],
+        "rating": "8.1",
+        "relase_date": "23 February 1996 (UK)"
+    },
+    {
+        "name": "The Elephant Man(1980) ",
+        "directors": [
+            "David Lynch"
+        ],
+        "stars": [
+            "Anthony Hopkins",
+            "John Hurt",
+            "Anne Bancroft"
+        ],
+        "writers": [
+            "Christopher De Vore",
+            "Eric Bergren"
+        ],
+        "rating": "8.1",
+        "relase_date": "10 October 1980 (USA)"
+    },
+    {
+        "name": "The Sixth Sense(1999) ",
+        "directors": [
+            "M. Night Shyamalan"
+        ],
+        "stars": [
+            "Bruce Willis",
+            "Haley Joel Osment",
+            "Toni Collette"
+        ],
+        "writers": [
+            "M. Night Shyamalan"
+        ],
+        "rating": "8.1",
+        "relase_date": "6 August 1999 (USA)"
+    },
+    {
+        "name": "Shutter Island(2010) ",
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "stars": [
+            "Leonardo DiCaprio",
+            "Emily Mortimer",
+            "Mark Ruffalo"
+        ],
+        "writers": [
+            "Laeta Kalogridis",
+            "Dennis Lehane"
+        ],
+        "rating": "8.1",
+        "relase_date": "4 June 2010 (India)"
+    },
+    {
+        "name": "The Thing(1982) ",
+        "directors": [
+            "John Carpenter"
+        ],
+        "stars": [
+            "Kurt Russell",
+            "Wilford Brimley",
+            "Keith David"
+        ],
+        "writers": [
+            "Bill Lancaster",
+            "John W. Campbell Jr."
+        ],
+        "rating": "8.1",
+        "relase_date": "10 December 1982 (India)"
+    },
+    {
+        "name": "Andhadhun(2018) ",
+        "directors": [
+            "Sriram Raghavan"
+        ],
+        "stars": [
+            "Ayushmann Khurrana",
+            "Tabu",
+            "Radhika Apte"
+        ],
+        "writers": [
+            "Arijit Biswas",
+            "Yogesh Chandekar"
+        ],
+        "rating": "8.4",
+        "relase_date": "5 October 2018 (India)"
+    },
+    {
+        "name": "Gone with the Wind(1939) ",
+        "directors": [
+            "Victor Fleming",
+            "George Cukor",
+            "1 more credit"
+        ],
+        "stars": [
+            "Clark Gable",
+            "Vivien Leigh",
+            "Thomas Mitchell"
+        ],
+        "writers": [
+            "Margaret Mitchell",
+            "Sidney Howard"
+        ],
+        "rating": "8.1",
+        "relase_date": "17 January 1940 (USA)"
+    },
+    {
+        "name": "The Bridge on the River Kwai(1957) ",
+        "directors": [
+            "David Lean"
+        ],
+        "stars": [
+            "William Holden",
+            "Alec Guinness",
+            "Jack Hawkins"
+        ],
+        "writers": [
+            "Pierre Boulle",
+            "Carl Foreman"
+        ],
+        "rating": "8.1",
+        "relase_date": "11 October 1957 (UK)"
+    },
+    {
+        "name": "Blade Runner(1982) ",
+        "directors": [
+            "Ridley Scott"
+        ],
+        "stars": [
+            "Harrison Ford",
+            "Rutger Hauer",
+            "Sean Young"
+        ],
+        "writers": [
+            "Hampton Fancher",
+            "David Webb Peoples"
+        ],
+        "rating": "8.1",
+        "relase_date": "25 June 1982 (USA)"
+    },
+    {
+        "name": "On the Waterfront(1954) ",
+        "directors": [
+            "Elia Kazan"
+        ],
+        "stars": [
+            "Marlon Brando",
+            "Karl Malden",
+            "Lee J. Cobb"
+        ],
+        "writers": [
+            "Budd Schulberg",
+            "Budd Schulberg"
+        ],
+        "rating": "8.1",
+        "relase_date": "22 June 1954 (Japan)"
+    },
+    {
+        "name": "The Third Man(1949) ",
+        "directors": [
+            "Carol Reed"
+        ],
+        "stars": [
+            "Orson Welles",
+            "Joseph Cotten",
+            "Alida Valli"
+        ],
+        "writers": [
+            "Graham Greene",
+            "Graham Greene"
+        ],
+        "rating": "8.1",
+        "relase_date": "12 October 1949 (France)"
+    },
+    {
+        "name": "Jurassic Park(1993) ",
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "stars": [
+            "Sam Neill",
+            "Laura Dern",
+            "Jeff Goldblum"
+        ],
+        "writers": [
+            "Michael Crichton",
+            "Michael Crichton"
+        ],
+        "rating": "8.1",
+        "relase_date": "15 April 1994 (India)"
+    },
+    {
+        "name": "Finding Nemo(2003) ",
+        "directors": [
+            "Andrew Stanton",
+            "Lee Unkrich"
+        ],
+        "stars": [
+            "Albert Brooks",
+            "Ellen DeGeneres",
+            "Alexander Gould"
+        ],
+        "writers": [
+            "Andrew Stanton",
+            "Andrew Stanton"
+        ],
+        "rating": "8.1",
+        "relase_date": "30 May 2003 (USA)"
+    },
+    {
+        "name": "Smultronstllet(1957) ",
+        "directors": [
+            "Ingmar Bergman"
+        ],
+        "stars": [
+            "Victor Sjstrm",
+            "Bibi Andersson",
+            "Ingrid Thulin"
+        ],
+        "writers": [
+            "Ingmar Bergman"
+        ],
+        "rating": "8.2",
+        "relase_date": "26 December 1957 (Sweden)"
+    },
+    {
+        "name": "Eskiya(1996) ",
+        "directors": [
+            "Yavuz Turgul"
+        ],
+        "stars": [
+            "Sener Sen",
+            "Ugur Ycel",
+            "Sermin Hrmeri"
+        ],
+        "writers": [
+            "Yavuz Turgul"
+        ],
+        "rating": "8.3",
+        "relase_date": "29 November 1996 (Turkey)"
+    },
+    {
+        "name": "Gran Torino(2008) ",
+        "directors": [
+            "Clint Eastwood"
+        ],
+        "stars": [
+            "Clint Eastwood",
+            "Bee Vang",
+            "Christopher Carley"
+        ],
+        "writers": [
+            "Nick Schenk",
+            "Dave Johannson"
+        ],
+        "rating": "8.1",
+        "relase_date": "13 March 2009 (India)"
+    },
+    {
+        "name": "Fargo(1996) ",
+        "directors": [
+            "Joel Coen",
+            "Ethan Coen"
+        ],
+        "stars": [
+            "William H. Macy",
+            "Frances McDormand",
+            "Steve Buscemi"
+        ],
+        "writers": [
+            "Ethan Coen",
+            "Joel Coen"
+        ],
+        "rating": "8.1",
+        "relase_date": "5 April 1996 (USA)"
+    },
+    {
+        "name": "Kill Bill: Vol. 1(2003) ",
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "stars": [
+            "Uma Thurman",
+            "David Carradine",
+            "Daryl Hannah"
+        ],
+        "writers": [
+            "Quentin Tarantino",
+            "Quentin Tarantino"
+        ],
+        "rating": "8.1",
+        "relase_date": "10 October 2003 (USA)"
+    },
+    {
+        "name": "The Deer Hunter(1978) ",
+        "directors": [
+            "Michael Cimino"
+        ],
+        "stars": [
+            "Robert De Niro",
+            "Christopher Walken",
+            "John Cazale"
+        ],
+        "writers": [
+            "Michael Cimino",
+            "Deric Washburn"
+        ],
+        "rating": "8.1",
+        "relase_date": "23 February 1979 (USA)"
+    },
+    {
+        "name": "Stalker(1979) ",
+        "directors": [
+            "Andrei Tarkovsky"
+        ],
+        "stars": [
+            "Alisa Freyndlikh",
+            "Aleksandr Kaydanovskiy",
+            "Anatoliy Solonitsyn"
+        ],
+        "writers": [
+            "Arkadiy Strugatskiy",
+            "Boris Strugatskiy"
+        ],
+        "rating": "8.2",
+        "relase_date": "17 April 1980 (Netherlands)"
+    },
+    {
+        "name": "The Truman Show(1998) ",
+        "directors": [
+            "Peter Weir"
+        ],
+        "stars": [
+            "Jim Carrey",
+            "Ed Harris",
+            "Laura Linney"
+        ],
+        "writers": [
+            "Andrew Niccol"
+        ],
+        "rating": "8.1",
+        "relase_date": "5 June 1998 (USA)"
+    },
+    {
+        "name": "The Big Lebowski(1998) ",
+        "directors": [
+            "Joel Coen",
+            "Ethan Coen"
+        ],
+        "stars": [
+            "Jeff Bridges",
+            "John Goodman",
+            "Julianne Moore"
+        ],
+        "writers": [
+            "Ethan Coen",
+            "Joel Coen"
+        ],
+        "rating": "8.1",
+        "relase_date": "6 March 1998 (USA)"
+    },
+    {
+        "name": "Tky monogatari(1953) ",
+        "directors": [
+            "Yasujir Ozu"
+        ],
+        "stars": [
+            "Chish Ry",
+            "Chieko Higashiyama",
+            "S Yamamura"
+        ],
+        "writers": [
+            "Kgo Noda",
+            "Yasujir Ozu"
+        ],
+        "rating": "8.2",
+        "relase_date": "3 November 1953 (Japan)"
+    },
+    {
+        "name": "Relatos salvajes(2014) ",
+        "directors": [
+            "Damin Szifron"
+        ],
+        "stars": [
+            "Daro Grandinetti",
+            "Mara Marull",
+            "Mnica Villa"
+        ],
+        "writers": [
+            "Germn Servidio",
+            "Damin Szifron"
+        ],
+        "rating": "8.1",
+        "relase_date": "21 August 2014 (Argentina)"
+    },
+    {
+        "name": "Mary and Max(2009) ",
+        "directors": [
+            "Adam Elliot"
+        ],
+        "stars": [
+            "Toni Collette",
+            "Philip Seymour Hoffman",
+            "Eric Bana"
+        ],
+        "writers": [
+            "Adam Elliot"
+        ],
+        "rating": "8.1",
+        "relase_date": "9 April 2009 (Australia)"
+    },
+    {
+        "name": "In the Name of the Father(1993) ",
+        "directors": [
+            "Jim Sheridan"
+        ],
+        "stars": [
+            "Daniel Day-Lewis",
+            "Pete Postlethwaite",
+            "Alison Crosbie"
+        ],
+        "writers": [
+            "Gerry Conlon",
+            "Terry George"
+        ],
+        "rating": "8.1",
+        "relase_date": "27 December 1993 (Ireland)"
+    },
+    {
+        "name": "Gone Girl(2014) ",
+        "directors": [
+            "David Fincher"
+        ],
+        "stars": [
+            "Ben Affleck",
+            "Rosamund Pike",
+            "Neil Patrick Harris"
+        ],
+        "writers": [
+            "Gillian Flynn",
+            "Gillian Flynn"
+        ],
+        "rating": "8.1",
+        "relase_date": "31 October 2014 (India)"
+    },
+    {
+        "name": "Hacksaw Ridge(2016) ",
+        "directors": [
+            "Mel Gibson"
+        ],
+        "stars": [
+            "Andrew Garfield",
+            "Sam Worthington",
+            "Luke Bracey"
+        ],
+        "writers": [
+            "Robert Schenkkan",
+            "Andrew Knight"
+        ],
+        "rating": "8.1",
+        "relase_date": "16 December 2016 (India)"
+    },
+    {
+        "name": "Sherlock Jr.(1924) ",
+        "directors": [
+            "Buster Keaton"
+        ],
+        "stars": [
+            "Buster Keaton",
+            "Kathryn McGuire",
+            "Joe Keaton"
+        ],
+        "writers": [
+            "Jean C. Havez",
+            "Joseph A. Mitchell"
+        ],
+        "rating": "8.2",
+        "relase_date": "11 May 1924 (USA)"
+    },
+    {
+        "name": "The General(1926) ",
+        "directors": [
+            "Clyde Bruckman",
+            "Buster Keaton"
+        ],
+        "stars": [
+            "Buster Keaton",
+            "Marion Mack",
+            "Glen Cavender"
+        ],
+        "writers": [
+            "Buster Keaton",
+            "Clyde Bruckman"
+        ],
+        "rating": "8.1",
+        "relase_date": "24 February 1927 (France)"
+    },
+    {
+        "name": "How to Train Your Dragon(2010) ",
+        "directors": [
+            "Dean DeBlois",
+            "Chris Sanders"
+        ],
+        "stars": [
+            "Jay Baruchel",
+            "Gerard Butler",
+            "Christopher Mintz-Plasse"
+        ],
+        "writers": [
+            "William Davies",
+            "Dean DeBlois"
+        ],
+        "rating": "8.1",
+        "relase_date": "16 April 2010 (India)"
+    },
+    {
+        "name": "Mr. Smith Goes to Washington(1939) ",
+        "directors": [
+            "Frank Capra"
+        ],
+        "stars": [
+            "James Stewart",
+            "Jean Arthur",
+            "Claude Rains"
+        ],
+        "writers": [
+            "Sidney Buchman",
+            "Lewis R. Foster"
+        ],
+        "rating": "8.1",
+        "relase_date": "19 October 1939 (USA)"
+    },
+    {
+        "name": "Salinui chueok(2003) ",
+        "directors": [
+            "Bong Joon Ho"
+        ],
+        "stars": [
+            "Kang-ho Song",
+            "Sang-kyung Kim",
+            "Roe-ha Kim"
+        ],
+        "writers": [
+            "Bong Joon Ho",
+            "Kwang-rim Kim"
+        ],
+        "rating": "8.1",
+        "relase_date": "2 May 2003 (South Korea)"
+    },
+    {
+        "name": "The Grand Budapest Hotel(2014) ",
+        "directors": [
+            "Wes Anderson"
+        ],
+        "stars": [
+            "Ralph Fiennes",
+            "F. Murray Abraham",
+            "Mathieu Amalric"
+        ],
+        "writers": [
+            "Stefan Zweig",
+            "Wes Anderson"
+        ],
+        "rating": "8.1",
+        "relase_date": "6 March 2014 (Germany)"
+    },
+    {
+        "name": "Persona(1966) ",
+        "directors": [
+            "Ingmar Bergman"
+        ],
+        "stars": [
+            "Bibi Andersson",
+            "Liv Ullmann",
+            "Margaretha Krook"
+        ],
+        "writers": [
+            "Ingmar Bergman"
+        ],
+        "rating": "8.1",
+        "relase_date": "18 October 1966 (Sweden)"
+    },
+    {
+        "name": "Before Sunrise(1995) ",
+        "directors": [
+            "Richard Linklater"
+        ],
+        "stars": [
+            "Ethan Hawke",
+            "Julie Delpy",
+            "Andrea Eckert"
+        ],
+        "writers": [
+            "Richard Linklater",
+            "Kim Krizan"
+        ],
+        "rating": "8.1",
+        "relase_date": "27 January 1995 (USA)"
+    },
+    {
+        "name": "Catch Me If You Can(2002) ",
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "stars": [
+            "Leonardo DiCaprio",
+            "Tom Hanks",
+            "Christopher Walken"
+        ],
+        "writers": [
+            "Jeff Nathanson",
+            "Frank Abagnale Jr."
+        ],
+        "rating": "8.1",
+        "relase_date": "25 December 2002 (USA)"
+    },
+    {
+        "name": "Into the Wild(2007) ",
+        "directors": [
+            "Sean Penn"
+        ],
+        "stars": [
+            "Emile Hirsch",
+            "Vince Vaughn",
+            "Catherine Keener"
+        ],
+        "writers": [
+            "Sean Penn",
+            "Jon Krakauer"
+        ],
+        "rating": "8.1",
+        "relase_date": "19 October 2007 (USA)"
+    },
+    {
+        "name": "Cool Hand Luke(1967) ",
+        "directors": [
+            "Stuart Rosenberg"
+        ],
+        "stars": [
+            "Paul Newman",
+            "George Kennedy",
+            "Strother Martin"
+        ],
+        "writers": [
+            "Donn Pearce",
+            "Frank Pierson"
+        ],
+        "rating": "8.1",
+        "relase_date": "1 November 1967 (USA)"
+    },
+    {
+        "name": "12 Years a Slave(2013) ",
+        "directors": [
+            "Steve McQueen"
+        ],
+        "stars": [
+            "Chiwetel Ejiofor",
+            "Michael Kenneth Williams",
+            "Michael Fassbender"
+        ],
+        "writers": [
+            "John Ridley",
+            "Solomon Northup"
+        ],
+        "rating": "8.1",
+        "relase_date": "31 January 2014 (India)"
+    },
+    {
+        "name": "Le salaire de la peur(1953) ",
+        "directors": [
+            "Henri-Georges Clouzot"
+        ],
+        "stars": [
+            "Yves Montand",
+            "Charles Vanel",
+            "Peter van Eyck"
+        ],
+        "writers": [
+            "Georges Arnaud",
+            "Henri-Georges Clouzot"
+        ],
+        "rating": "8.1",
+        "relase_date": "22 April 1953 (France)"
+    },
+    {
+        "name": "Prisoners(2013) ",
+        "directors": [
+            "Denis Villeneuve"
+        ],
+        "stars": [
+            "Hugh Jackman",
+            "Jake Gyllenhaal",
+            "Viola Davis"
+        ],
+        "writers": [
+            "Aaron Guzikowski"
+        ],
+        "rating": "8.1",
+        "relase_date": "27 September 2013 (India)"
+    },
+    {
+        "name": "Network(1976) ",
+        "directors": [
+            "Sidney Lumet"
+        ],
+        "stars": [
+            "Faye Dunaway",
+            "William Holden",
+            "Peter Finch"
+        ],
+        "writers": [
+            "Paddy Chayefsky"
+        ],
+        "rating": "8.1",
+        "relase_date": "27 November 1976 (USA)"
+    },
+    {
+        "name": "Life of Brian(1979) ",
+        "directors": [
+            "Terry Jones"
+        ],
+        "stars": [
+            "Graham Chapman",
+            "John Cleese",
+            "Michael Palin"
+        ],
+        "writers": [
+            "Graham Chapman",
+            "John Cleese"
+        ],
+        "rating": "8.1",
+        "relase_date": "8 November 1979 (UK)"
+    },
+    {
+        "name": "Stand by Me(1986) ",
+        "directors": [
+            "Rob Reiner"
+        ],
+        "stars": [
+            "Wil Wheaton",
+            "River Phoenix",
+            "Corey Feldman"
+        ],
+        "writers": [
+            "Stephen King",
+            "Raynold Gideon"
+        ],
+        "rating": "8.1",
+        "relase_date": "26 November 1986 (USA)"
+    },
+    {
+        "name": "The Red Shoes(1948) ",
+        "directors": [
+            "Michael Powell",
+            "Emeric Pressburger"
+        ],
+        "stars": [
+            "Anton Walbrook",
+            "Marius Goring",
+            "Moira Shearer"
+        ],
+        "writers": [
+            "Hans Christian Andersen",
+            "Emeric Pressburger"
+        ],
+        "rating": "8.2",
+        "relase_date": "6 September 1948 (UK)"
+    },
+    {
+        "name": "Mad Max: Fury Road(2015) ",
+        "directors": [
+            "George Miller"
+        ],
+        "stars": [
+            "Tom Hardy",
+            "Charlize Theron",
+            "Nicholas Hoult"
+        ],
+        "writers": [
+            "George Miller",
+            "Brendan McCarthy"
+        ],
+        "rating": "8.1",
+        "relase_date": "15 May 2015 (India)"
+    },
+    {
+        "name": "Platoon(1986) ",
+        "directors": [
+            "Oliver Stone"
+        ],
+        "stars": [
+            "Charlie Sheen",
+            "Tom Berenger",
+            "Willem Dafoe"
+        ],
+        "writers": [
+            "Oliver Stone"
+        ],
+        "rating": "8.1",
+        "relase_date": "6 February 1987 (USA)"
+    },
+    {
+        "name": "La passion de Jeanne d'Arc(1928) ",
+        "directors": [
+            "Carl Theodor Dreyer"
+        ],
+        "stars": [
+            "Maria Falconetti",
+            "Eugene Silvain",
+            "Andr Berley"
+        ],
+        "writers": [
+            "Joseph Delteil",
+            "Carl Theodor Dreyer"
+        ],
+        "rating": "8.2",
+        "relase_date": "25 October 1928 (France)"
+    },
+    {
+        "name": "Rang De Basanti(2006) ",
+        "directors": [
+            "Rakeysh Omprakash Mehra"
+        ],
+        "stars": [
+            "Aamir Khan",
+            "Soha Ali Khan",
+            "Siddharth"
+        ],
+        "writers": [
+            "Renzil D'Silva",
+            "Prasoon Joshi"
+        ],
+        "rating": "8.2",
+        "relase_date": "26 January 2006 (India)"
+    },
+    {
+        "name": "Million Dollar Baby(2004) ",
+        "directors": [
+            "Clint Eastwood"
+        ],
+        "stars": [
+            "Hilary Swank",
+            "Clint Eastwood",
+            "Morgan Freeman"
+        ],
+        "writers": [
+            "Paul Haggis",
+            "F.X. Toole"
+        ],
+        "rating": "8.1",
+        "relase_date": "11 March 2005 (India)"
+    },
+    {
+        "name": "Rush(2013) ",
+        "directors": [
+            "Ron Howard"
+        ],
+        "stars": [
+            "Daniel Brhl",
+            "Chris Hemsworth",
+            "Olivia Wilde"
+        ],
+        "writers": [
+            "Peter Morgan"
+        ],
+        "rating": "8.1",
+        "relase_date": "20 September 2013 (India)"
+    },
+    {
+        "name": "Hachi: A Dog's Tale(2009) ",
+        "directors": [
+            "Lasse Hallstrm"
+        ],
+        "stars": [
+            "Richard Gere",
+            "Joan Allen",
+            "Cary-Hiroyuki Tagawa"
+        ],
+        "writers": [
+            "Stephen P. Lindsey",
+            "Kaneto Shind"
+        ],
+        "rating": "8.1",
+        "relase_date": "12 March 2010 (UK)"
+    },
+    {
+        "name": "Barry Lyndon(1975) ",
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "stars": [
+            "Ryan O'Neal",
+            "Marisa Berenson",
+            "Patrick Magee"
+        ],
+        "writers": [
+            "Stanley Kubrick",
+            "William Makepeace Thackeray"
+        ],
+        "rating": "8.1",
+        "relase_date": "18 December 1975 (UK)"
+    },
+    {
+        "name": "Logan(2017) ",
+        "directors": [
+            "James Mangold"
+        ],
+        "stars": [
+            "Hugh Jackman",
+            "Patrick Stewart",
+            "Dafne Keen"
+        ],
+        "writers": [
+            "James Mangold",
+            "Scott Frank"
+        ],
+        "rating": "8.1",
+        "relase_date": "3 March 2017 (India)"
+    },
+    {
+        "name": "Andrei Rublev(1966) ",
+        "directors": [
+            "Andrei Tarkovsky"
+        ],
+        "stars": [
+            "Anatoliy Solonitsyn",
+            "Ivan Lapikov",
+            "Nikolay Grinko"
+        ],
+        "writers": [
+            "Andrey Konchalovskiy",
+            "Andrei Tarkovsky"
+        ],
+        "rating": "8.2",
+        "relase_date": "December 1969 (France)"
+    },
+    {
+        "name": "Ben-Hur(1959) ",
+        "directors": [
+            "William Wyler"
+        ],
+        "stars": [
+            "Charlton Heston",
+            "Jack Hawkins",
+            "Stephen Boyd"
+        ],
+        "writers": [
+            "Lew Wallace",
+            "Karl Tunberg"
+        ],
+        "rating": "8.1",
+        "relase_date": "29 January 1960 (Brazil)"
+    },
+    {
+        "name": "Kaze no tani no Naushika(1984) ",
+        "directors": [
+            "Hayao Miyazaki"
+        ],
+        "stars": [
+            "Sumi Shimamoto",
+            "Mahito Tsujimura",
+            "Hisako Kyda"
+        ],
+        "writers": [
+            "Hayao Miyazaki",
+            "Hayao Miyazaki"
+        ],
+        "rating": "8.1",
+        "relase_date": "11 March 1984 (Japan)"
+    },
+    {
+        "name": "Hotel Rwanda(2004) ",
+        "directors": [
+            "Terry George"
+        ],
+        "stars": [
+            "Don Cheadle",
+            "Sophie Okonedo",
+            "Joaquin Phoenix"
+        ],
+        "writers": [
+            "Keir Pearson",
+            "Terry George"
+        ],
+        "rating": "8.1",
+        "relase_date": "4 March 2005 (UK)"
+    },
+    {
+        "name": "Les quatre cents coups(1959) ",
+        "directors": [
+            "Franois Truffaut"
+        ],
+        "stars": [
+            "Jean-Pierre Laud",
+            "Albert Rmy",
+            "Claire Maurier"
+        ],
+        "writers": [
+            "Franois Truffaut",
+            "Marcel Moussy"
+        ],
+        "rating": "8.1",
+        "relase_date": "3 June 1959 (France)"
+    },
+    {
+        "name": "Amores perros(2000) ",
+        "directors": [
+            "Alejandro G. Irritu"
+        ],
+        "stars": [
+            "Emilio Echevarra",
+            "Gael Garca Bernal",
+            "Goya Toledo"
+        ],
+        "writers": [
+            "Guillermo Arriaga"
+        ],
+        "rating": "8.1",
+        "relase_date": "16 June 2000 (Mexico)"
+    },
+    {
+        "name": "Harry Potter and the Deathly Hallows: Part 2(2011) ",
+        "directors": [
+            "David Yates"
+        ],
+        "stars": [
+            "Daniel Radcliffe",
+            "Emma Watson",
+            "Rupert Grint"
+        ],
+        "writers": [
+            "Steve Kloves",
+            "J.K. Rowling"
+        ],
+        "rating": "8.1",
+        "relase_date": "15 July 2011 (India)"
+    },
+    {
+        "name": "Spotlight(2015) ",
+        "directors": [
+            "Tom McCarthy"
+        ],
+        "stars": [
+            "Mark Ruffalo",
+            "Michael Keaton",
+            "Rachel McAdams"
+        ],
+        "writers": [
+            "Josh Singer",
+            "Tom McCarthy"
+        ],
+        "rating": "8.1",
+        "relase_date": "19 February 2016 (India)"
+    },
+    {
+        "name": "Dead Poets Society(1989) ",
+        "directors": [
+            "Peter Weir"
+        ],
+        "stars": [
+            "Robin Williams",
+            "Robert Sean Leonard",
+            "Ethan Hawke"
+        ],
+        "writers": [
+            "Tom Schulman"
+        ],
+        "rating": "8.1",
+        "relase_date": "9 June 1989 (USA)"
+    },
+    {
+        "name": "Ace in the Hole(1951) ",
+        "directors": [
+            "Billy Wilder"
+        ],
+        "stars": [
+            "Kirk Douglas",
+            "Jan Sterling",
+            "Robert Arthur"
+        ],
+        "writers": [
+            "Billy Wilder",
+            "Lesser Samuels"
+        ],
+        "rating": "8.2",
+        "relase_date": "4 July 1951 (USA)"
+    },
+    {
+        "name": "White Heat(1949) ",
+        "directors": [
+            "Raoul Walsh"
+        ],
+        "stars": [
+            "James Cagney",
+            "Virginia Mayo",
+            "Edmond O'Brien"
+        ],
+        "writers": [
+            "Ivan Goff",
+            "Ben Roberts"
+        ],
+        "rating": "8.2",
+        "relase_date": "3 September 1949 (USA)"
+    },
+    {
+        "name": "Rebecca(1940) ",
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "stars": [
+            "Laurence Olivier",
+            "Joan Fontaine",
+            "George Sanders"
+        ],
+        "writers": [
+            "Daphne Du Maurier",
+            "Robert E. Sherwood"
+        ],
+        "rating": "8.1",
+        "relase_date": "12 April 1940 (USA)"
+    },
+    {
+        "name": "Rocky(1976) ",
+        "directors": [
+            "John G. Avildsen"
+        ],
+        "stars": [
+            "Sylvester Stallone",
+            "Talia Shire",
+            "Burt Young"
+        ],
+        "writers": [
+            "Sylvester Stallone"
+        ],
+        "rating": "8.1",
+        "relase_date": "3 December 1976 (USA)"
+    },
+    {
+        "name": "Monsters, Inc.(2001) ",
+        "directors": [
+            "Pete Docter",
+            "David Silverman",
+            "1 more credit"
+        ],
+        "stars": [
+            "Billy Crystal",
+            "John Goodman",
+            "Mary Gibbs"
+        ],
+        "writers": [
+            "Pete Docter",
+            "Jill Culton"
+        ],
+        "rating": "8.0",
+        "relase_date": "2 November 2001 (USA)"
+    },
+    {
+        "name": "It Happened One Night(1934) ",
+        "directors": [
+            "Frank Capra"
+        ],
+        "stars": [
+            "Clark Gable",
+            "Claudette Colbert",
+            "Walter Connolly"
+        ],
+        "writers": [
+            "Robert Riskin",
+            "Samuel Hopkins Adams"
+        ],
+        "rating": "8.1",
+        "relase_date": "22 February 1934 (USA)"
+    },
+    {
+        "name": "Ah-ga-ssi(2016) ",
+        "directors": [
+            "Chan-wook Park"
+        ],
+        "stars": [
+            "Min-hee Kim",
+            "Jung-woo Ha",
+            "Jin-woong Cho"
+        ],
+        "writers": [
+            "Sarah Waters",
+            "Seo-kyeong Jeong"
+        ],
+        "rating": "8.1",
+        "relase_date": "1 June 2016 (South Korea)"
+    },
+    {
+        "name": "La haine(1995) ",
+        "directors": [
+            "Mathieu Kassovitz"
+        ],
+        "stars": [
+            "Vincent Cassel",
+            "Hubert Kound",
+            "Sad Taghmaoui"
+        ],
+        "writers": [
+            "Mathieu Kassovitz"
+        ],
+        "rating": "8.1",
+        "relase_date": "31 May 1995 (France)"
+    },
+    {
+        "name": "Gangs of Wasseypur(2012) ",
+        "directors": [
+            "Anurag Kashyap"
+        ],
+        "stars": [
+            "Manoj Bajpayee",
+            "Richa Chadha",
+            "Nawazuddin Siddiqui"
+        ],
+        "writers": [
+            "Akhilesh Jaiswal",
+            "Anurag Kashyap"
+        ],
+        "rating": "8.2",
+        "relase_date": "2 August 2012 (Singapore)"
+    },
+    {
+        "name": "Lagaan: Once Upon a Time in India(2001) ",
+        "directors": [
+            "Ashutosh Gowariker"
+        ],
+        "stars": [
+            "Aamir Khan",
+            "Raghuvir Yadav",
+            "Gracy Singh"
+        ],
+        "writers": [
+            "Ashutosh Gowariker",
+            "Ashutosh Gowariker"
+        ],
+        "rating": "8.1",
+        "relase_date": "15 June 2001 (India)"
+    },
+    {
+        "name": "The Princess Bride(1987) ",
+        "directors": [
+            "Rob Reiner"
+        ],
+        "stars": [
+            "Cary Elwes",
+            "Mandy Patinkin",
+            "Robin Wright"
+        ],
+        "writers": [
+            "William Goldman",
+            "William Goldman"
+        ],
+        "rating": "8.1",
+        "relase_date": "9 October 1987 (USA)"
+    },
+    {
+        "name": "PK(2014) ",
+        "directors": [
+            "Rajkumar Hirani"
+        ],
+        "stars": [
+            "Aamir Khan",
+            "Anushka Sharma",
+            "Sanjay Dutt"
+        ],
+        "writers": [
+            "Rajkumar Hirani",
+            "Abhijat Joshi"
+        ],
+        "rating": "8.1",
+        "relase_date": "19 December 2014 (India)"
+    },
+    {
+        "name": "Butch Cassidy and the Sundance Kid(1969) ",
+        "directors": [
+            "George Roy Hill"
+        ],
+        "stars": [
+            "Paul Newman",
+            "Robert Redford",
+            "Katharine Ross"
+        ],
+        "writers": [
+            "William Goldman"
+        ],
+        "rating": "8.0",
+        "relase_date": "24 September 1969 (USA)"
+    },
+    {
+        "name": "The Help(2011) ",
+        "directors": [
+            "Tate Taylor"
+        ],
+        "stars": [
+            "Emma Stone",
+            "Viola Davis",
+            "Octavia Spencer"
+        ],
+        "writers": [
+            "Tate Taylor",
+            "Kathryn Stockett"
+        ],
+        "rating": "8.1",
+        "relase_date": "25 November 2011 (India)"
+    },
+    {
+        "name": "Before Sunset(2004) ",
+        "directors": [
+            "Richard Linklater"
+        ],
+        "stars": [
+            "Ethan Hawke",
+            "Julie Delpy",
+            "Vernon Dobtcheff"
+        ],
+        "writers": [
+            "Richard Linklater",
+            "Julie Delpy"
+        ],
+        "rating": "8.0",
+        "relase_date": "30 July 2004 (USA)"
+    },
+    {
+        "name": "Munna Bhai M.B.B.S.(2003) ",
+        "directors": [
+            "Rajkumar Hirani"
+        ],
+        "stars": [
+            "Sanjay Dutt",
+            "Arshad Warsi",
+            "Gracy Singh"
+        ],
+        "writers": [
+            "Vidhu Vinod Chopra",
+            "Rajkumar Hirani"
+        ],
+        "rating": "8.1",
+        "relase_date": "19 December 2003 (India)"
+    },
+    {
+        "name": "Akira(1988) ",
+        "directors": [
+            "Katsuhiro tomo"
+        ],
+        "stars": [
+            "Mitsuo Iwata",
+            "Nozomu Sasaki",
+            "Mami Koyama"
+        ],
+        "writers": [
+            "Katsuhiro tomo",
+            "Iz Hashimoto"
+        ],
+        "rating": "8.1",
+        "relase_date": "16 July 1988 (Japan)"
+    },
+    {
+        "name": "The Terminator(1984) ",
+        "directors": [
+            "James Cameron"
+        ],
+        "stars": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton",
+            "Michael Biehn"
+        ],
+        "writers": [
+            "James Cameron",
+            "Gale Anne Hurd"
+        ],
+        "rating": "8.0",
+        "relase_date": "26 October 1984 (USA)"
+    },
+    {
+        "name": "Faa yeung nin wa(2000) ",
+        "directors": [
+            "Kar-Wai Wong"
+        ],
+        "stars": [
+            "Tony Chiu-Wai Leung",
+            "Maggie Cheung",
+            "Ping Lam Siu"
+        ],
+        "writers": [
+            "Kar-Wai Wong"
+        ],
+        "rating": "8.1",
+        "relase_date": "29 September 2000 (Hong Kong)"
+    },
+    {
+        "name": "Paris, Texas(1984) ",
+        "directors": [
+            "Wim Wenders"
+        ],
+        "stars": [
+            "Harry Dean Stanton",
+            "Nastassja Kinski",
+            "Dean Stockwell"
+        ],
+        "writers": [
+            "L.M. Kit Carson",
+            "Sam Shepard"
+        ],
+        "rating": "8.1",
+        "relase_date": "19 September 1984 (France)"
+    },
+    {
+        "name": "Swades: We, the People(2004) ",
+        "directors": [
+            "Ashutosh Gowariker"
+        ],
+        "stars": [
+            "Shah Rukh Khan",
+            "Gayatri Joshi",
+            "Kishori Ballal"
+        ],
+        "writers": [
+            "M.G. Sathya",
+            "Ashutosh Gowariker"
+        ],
+        "rating": "8.2",
+        "relase_date": "17 December 2004 (India)"
+    },
+    {
+        "name": "Aladdin(1992) ",
+        "directors": [
+            "Ron Clements",
+            "John Musker"
+        ],
+        "stars": [
+            "Scott Weinger",
+            "Robin Williams",
+            "Linda Larkin"
+        ],
+        "writers": [
+            "Ron Clements",
+            "John Musker"
+        ],
+        "rating": "8.0",
+        "relase_date": "25 November 1992 (USA)"
+    },
+    {
+        "name": "Guardians of the Galaxy(2014) ",
+        "directors": [
+            "James Gunn"
+        ],
+        "stars": [
+            "Chris Pratt",
+            "Vin Diesel",
+            "Bradley Cooper"
+        ],
+        "writers": [
+            "James Gunn",
+            "Nicole Perlman"
+        ],
+        "rating": "8.0",
+        "relase_date": "8 August 2014 (India)"
+    },
+    {
+        "name": "Mou gaan dou(2002) ",
+        "directors": [
+            "Andrew Lau",
+            "Alan Mak"
+        ],
+        "stars": [
+            "Andy Lau",
+            "Tony Chiu-Wai Leung",
+            "Anthony Chau-Sang Wong"
+        ],
+        "writers": [
+            "Alan Mak",
+            "Felix Chong"
+        ],
+        "rating": "8.1",
+        "relase_date": "12 December 2002 (Hong Kong)"
+    },
+    {
+        "name": "La battaglia di Algeri(1966) ",
+        "directors": [
+            "Gillo Pontecorvo"
+        ],
+        "stars": [
+            "Brahim Hadjadj",
+            "Jean Martin",
+            "Yacef Saadi"
+        ],
+        "writers": [
+            "Franco Solinas",
+            "Franco Solinas"
+        ],
+        "rating": "8.1",
+        "relase_date": "9 September 1966 (Italy)"
+    },
+    {
+        "name": "La leggenda del pianista sull'oceano(1998) ",
+        "directors": [
+            "Giuseppe Tornatore"
+        ],
+        "stars": [
+            "Tim Roth",
+            "Pruitt Taylor Vince",
+            "Mlanie Thierry"
+        ],
+        "writers": [
+            "Alessandro Baricco",
+            "Giuseppe Tornatore"
+        ],
+        "rating": "8.1",
+        "relase_date": "28 October 1998 (Italy)"
+    },
+    {
+        "name": "Tenk no shiro Rapyuta(1986) ",
+        "directors": [
+            "Hayao Miyazaki"
+        ],
+        "stars": [
+            "Anna Paquin",
+            "James Van Der Beek",
+            "Cloris Leachman"
+        ],
+        "writers": [
+            "Hayao Miyazaki"
+        ],
+        "rating": "8.0",
+        "relase_date": "2 August 1986 (Japan)"
+    },
+    {
+        "name": "Underground(1995) ",
+        "directors": [
+            "Emir Kusturica"
+        ],
+        "stars": [
+            "Predrag 'Miki' Manojlovic",
+            "Lazar Ristovski",
+            "Mirjana Jokovic"
+        ],
+        "writers": [
+            "Dusan Kovacevic",
+            "Emir Kusturica"
+        ],
+        "rating": "8.1",
+        "relase_date": "1 April 1995 (Federal Republic of Yugoslavia)"
+    }
+]
