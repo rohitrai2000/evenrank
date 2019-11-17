@@ -17,6 +17,7 @@ def getData(link):
     rating = sp.find("span", itemprop="ratingValue")
     releaseDate = sp.find("a", title="See more release dates")
     summaryText = sp.findAll("div", class_="credit_summary_item")
+    poster = sp.find("div", class_="poster")
     directors = []
     stars = []
     writers = []
@@ -45,7 +46,8 @@ def getData(link):
         "stars" : (stars),
         "writers" : (writers),
         "rating" : removeBackslashn(rating.text),
-        "relase_date": removeBackslashn(releaseDate.text)
+        "relase_date": removeBackslashn(releaseDate.text),
+        "imageLink": poster.a.img['src']
     }
 
     print(listItem)
